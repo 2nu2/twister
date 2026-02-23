@@ -1,10 +1,14 @@
-{
-  "id": "com.watch.filmeslegais",
-  "version": "1.0.0",
-  "vendor": "Watch",
-  "type": "web",
-  "main": "index.html",
-  "title": "Filmes Legais",
-  "icon": "icon.png",
-  "largeIcon": "icon.png"
-}
+[
+  {
+    "id": "sintel",
+    "titulo": "Sintel",
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sintel_poster.jpg",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+  },
+  {
+    "id": "bigbuckbunny",
+    "titulo": "Big Buck Bunny",
+    "capa": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  }
+]
