@@ -1,0 +1,10 @@
+{
+  "id": "com.watch.filmeslegais",
+  "version": "1.0.0",
+  "vendor": "Watch",
+  "type": "web",
+  "main": "index.html",
+  "title": "Filmes Legais",
+  "icon": "icon.png",
+  "largeIcon": "icon.png"
+}
