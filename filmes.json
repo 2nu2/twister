@@ -1,8 +1,8 @@
 [
   {
-    "id": "bigbuckbunny",
-    "titulo": "Big Buck Bunny",
-    "capa": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+    "id": "Piratas_do_caribe2",
+    "titulo": "Piratas do Caribe 2",
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/d/d4/Pirates_of_the_Caribbean_2.jpg",
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   },
   {
@@ -12,5 +12,6 @@
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
   }
 ]
+
 
 
