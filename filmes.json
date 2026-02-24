@@ -23,6 +23,18 @@
     "capa": "https://i.assistir.biz/t/p/w342/mQuyx1qXOc6ftTctYVG3gcvWrEH.jpg",
     "url": "https://hls-proxy.astr.digital/hls/piratas-do-caribe-navegando-em-aguas-misteriosas/master.m3u8?hash=v1oATAuwnrRb6fDkMPV-3Q&expires=1771976779"
   },
+    {
+    "id": "",
+    "titulo": "",
+    "capa": "",
+    "url": ""
+  },
+    {
+    "id": "carros3",
+    "titulo": "Carros 3",
+    "capa": "https://i.assistir.biz/t/p/w342/lVPFdORefTKXKFiSktrXbiFDNAK.jpg",
+    "url": "https://hls-proxy.astr.digital/hls/carros-3/master.m3u8?hash=1rK5WGxiNKTT1SjviEXFLw&expires=1771979402"
+  },
   {
     "id": "Pitatas2",
     "titulo": "Piratas do Caribe: O Baú da Morte",
@@ -30,6 +42,7 @@
     "url": "https://hls.astr.digital/hls/piratas-do-caribe-o-bau-da-morte/master.m3u8?hash=HoYhYBPlRzZqiPptGy_3vA&expires=1771976279"
   }
 ]
+
 
 
 
