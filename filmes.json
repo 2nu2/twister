@@ -54,12 +54,25 @@
     "url": "https://hls-proxy.astr.digital/hls/carros-3/master.m3u8?hash=1rK5WGxiNKTT1SjviEXFLw&expires=1771979402"
   },
   {
+    "id": "Motoquieo1",
+    "titulo": "Motoqueiro Fantasma",
+    "capa": "https://i.assistir.biz/t/p/w342/vVGVlwRrvVgLPE98rwo8jo3QC2b.avif",
+    "url": "https://hls-proxy.astr.digital/hls/motoqueiro-fantasma/master.m3u8?hash=rpa3dvwQHzD7AsIuV_Ev3Q&expires=1771981038"
+  },
+    {
+    "id": "",
+    "titulo": "",
+    "capa": "",
+    "url": ""
+  },
+    {
     "id": "",
     "titulo": "",
     "capa": "",
     "url": ""
   }
 ]
+
 
 
 
