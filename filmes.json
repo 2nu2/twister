@@ -17,6 +17,12 @@
     "capa": "https://i.assistir.biz/t/p/w342/2vgdFnsThB3acNVSUN9TzpUwLg5.jpg",
     "url": "https://hls.astr.digital/hls/piratas-do-caribe-no-fim-do-mundo/master.m3u8?hash=5MNvAyomlSyAWO2khPAZ5Q&expires=1771976540"
   },
+    {
+    "id": "Piratas4",
+    "titulo": "Piratas do Caribe: Navegando em Águas Misteriosas",
+    "capa": "https://i.assistir.biz/t/p/w342/mQuyx1qXOc6ftTctYVG3gcvWrEH.jpg",
+    "url": "https://hls-proxy.astr.digital/hls/piratas-do-caribe-navegando-em-aguas-misteriosas/master.m3u8?hash=v1oATAuwnrRb6fDkMPV-3Q&expires=1771976779"
+  },
   {
     "id": "Pitatas1",
     "titulo": "Piratas do Caribe: O Baú da Morte",
@@ -24,6 +30,7 @@
     "url": "https://hls.astr.digital/hls/piratas-do-caribe-o-bau-da-morte/master.m3u8?hash=HoYhYBPlRzZqiPptGy_3vA&expires=1771976279"
   }
 ]
+
 
 
 
