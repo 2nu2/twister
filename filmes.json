@@ -4,7 +4,29 @@
     "titulo": "Big Buck Bunny",
     "capa": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "id": "sintel",
+    "titulo": "Sintel",
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sintel_poster.jpg",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+  },
+  {
+    "id": "tears_of_steel",
+    "titulo": "Tears of Steel",
+    "capa": "https://mango.blender.org/wp-content/uploads/2013/05/Tears-of-Steel-poster.jpg",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+  },
+  {
+    "id": "elephants_dream",
+    "titulo": "Elephants Dream",
+    "capa": "https://orange.blender.org/wp-content/themes/orange/images/common/ed_header.jpg",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  },
+  {
+    "id": "for_bigger_blazes",
+    "titulo": "For Bigger Blazes",
+    "capa": "https://i.ytimg.com/vi/XSGBVzeBUbk/maxresdefault.jpg",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
   }
 ]
-
-
