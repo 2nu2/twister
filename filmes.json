@@ -32,19 +32,19 @@
     {
     "id": "Aeradogelo5",
     "titulo": "A Era do Gelo: O Big Bang",
-    "capa": "https://i.imgur.com/NWOdWjA.jpeg",
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/c/c5/Ice_age_collision_course.jpg",
     "url": "https://hls.astr.digital/hls/a-era-do-gelo-o-big-bang/master.m3u8?hash=C_g-Tybt2ny7pPIAmtHdXQ&expires=1771980189"
   },
     {
     "id": "aeradogelo4",
     "titulo": "A Era do Gelo 4",
-    "capa": "https://i.imgur.com/gHLBmqA.jpeg",
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/6/6c/Ice_Age_Continental_Drift.jpg",
     "url": "https://hls.astr.digital/hls/a-era-do-gelo-4/master.m3u8?hash=XFUreDIRMwqhmK92Gwz1PA&expires=1771980804"
   },
     {
     "id": "aeradogelo3",
     "titulo": "A Era do Gelo 3",
-    "capa": "https://i.imgur.com/5AgfGAp.jpeg",
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/9/99/Dawn_of_the_Dinosaurs.jpg",
     "url": "https://hls-proxy.astr.digital/hls/a-era-do-gelo-3/master.m3u8?hash=Ba81Fch7LQR2-477SwI1Pg&expires=1771980906"
   },
     {
@@ -56,7 +56,7 @@
   {
     "id": "Motoquieo1",
     "titulo": "Motoqueiro Fantasma",
-    "capa": "https://i.imgur.com/fylWkU7.jpeg",
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/d/d7/Ghostrider_cartaz.jpg",
     "url": "https://hls-proxy.astr.digital/hls/motoqueiro-fantasma/master.m3u8?hash=rpa3dvwQHzD7AsIuV_Ev3Q&expires=1771981038"
   },
     {
@@ -72,6 +72,7 @@
     "url": ""
   }
 ]
+
 
 
 
