@@ -1,9 +1,9 @@
 [
   {
     "id": "Piratas_do_caribe2",
-    "titulo": "Piratas do Caribe 2",
-    "capa": "https://images-3.rakuten.tv/storage/global-movie/translation/artwork/5c497a49-13eb-4251-8bc6-8df484fee89e-piratas-del-caribe-2-el-cofre-del-hombre-muerto-1611319629/variants/49f6b89bd291722c227e312eaa7d04e4380b4c0b7611bf68a82c328d2c00fcb9-width317-quality60.webp",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    "titulo": "Piratas do Caribe",
+    "capa": "https://i.assistir.biz/t/p/w342/zUpeLvZJw5Tf22BAjraOZFex9E0.jpg",
+    "url": "https://hls-proxy.astr.digital/hls/piratas-do-caribe-a-maldicao-do-perola-negra/master.m3u8?hash=bifEHy0PawOSh-iAn3qIOA&expires=1771973758"
   },
     {
     "id": "Velozes",
@@ -12,12 +12,13 @@
     "url": "https://hls-proxy.astr.digital/hls/velozes-e-furiosos-desafio-em-toquio/master.m3u8?hash=ici79WAC_i2CTytjfEWy3A&expires=1771972669"
   },
   {
-    "id": "1",
-    "titulo": "A Era do Gelo 4",
-    "capa": "https://filmesdanet.net/uploads/posts/2025-08/862207c8-9053-4f70-bf49-fdb15254c20e.webp",
+    "id": "Mib1",
+    "titulo": "Mib Homens de Preto",
+    "capa": "https://i.assistir.biz/t/p/w342/kSdBScrDKwigykf5X51mFAHusS1.jpg",
     "url": "https://watch.brstream.cc/m3u8/26/ceee632a967af1be6e1c0a29e21bb1c5/master.txt?s=1&id=28504&cache=1"
   }
 ]
+
 
 
 
