@@ -1,15 +1,15 @@
 [
+      {
+    "id": "Velozes",
+    "titulo": "Velozes e Furiosos",
+    "capa": "https://i.assistir.biz/t/p/w342/1kzW2GImY1YVmLRx3NLhXFBfLLO.jpg",
+    "url": "https://hls-proxy.astr.digital/hls/velozes-e-furiosos-desafio-em-toquio/master.m3u8?hash=ici79WAC_i2CTytjfEWy3A&expires=1771972669"
+  },
   {
     "id": "Piratas1",
     "titulo": "Piratas do Caribe",
     "capa": "https://i.assistir.biz/t/p/w342/zUpeLvZJw5Tf22BAjraOZFex9E0.jpg",
     "url": "https://hls-proxy.astr.digital/hls/piratas-do-caribe-a-maldicao-do-perola-negra/master.m3u8?hash=bifEHy0PawOSh-iAn3qIOA&expires=1771973758"
-  },
-    {
-    "id": "Velozes",
-    "titulo": "Velozes e Furiosos",
-    "capa": "https://i.assistir.biz/t/p/w342/1kzW2GImY1YVmLRx3NLhXFBfLLO.jpg",
-    "url": "https://hls-proxy.astr.digital/hls/velozes-e-furiosos-desafio-em-toquio/master.m3u8?hash=ici79WAC_i2CTytjfEWy3A&expires=1771972669"
   },
     {
     "id": "Piratas3",
@@ -60,6 +60,7 @@
     "url": ""
   }
 ]
+
 
 
 
