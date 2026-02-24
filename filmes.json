@@ -2,7 +2,7 @@
   {
     "id": "sintel",
     "titulo": "Sintel",
-    "capa": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sintel_poster.jpg",
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/6/68/PiratesDVDs.jpg",
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
   },
   {
@@ -12,3 +12,4 @@
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   }
 ]
+
