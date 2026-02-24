@@ -62,7 +62,7 @@
     {
     "id": "av1",
     "titulo": "Aviões",
-    "capa": "https://i.assistir.biz/t/p/w342/4KrnsveRY7O6YR2X0j1vGrEksIZ.jpg",
+    "capa": "https://raw.githubusercontent.com/win64k-lgtm/twister/refs/heads/main/4KrnsveRY7O6YR2X0j1vGrEksIZ.jpg",
     "url": "https://hls.astr.digital/hls/avioes/master.m3u8?hash=VTp-7sGzpzP9MKxHrjaJEw&expires=1771983337"
   },
     {
@@ -84,6 +84,7 @@
     "url": "https://hls-proxy.astr.digital/hls/velozes-e-furiosos-hobbs-e-shaw/master.m3u8?hash=vCZS1taC3yAffBdSQy8gLw&expires=1771983728"
   }
 ]
+
 
 
 
