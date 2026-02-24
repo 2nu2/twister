@@ -30,10 +30,10 @@
     "url": "https://hls.astr.digital/hls/piratas-do-caribe-o-bau-da-morte/master.m3u8?hash=HoYhYBPlRzZqiPptGy_3vA&expires=1771976279"
   },
     {
-    "id": "",
-    "titulo": "",
-    "capa": "",
-    "url": ""
+    "id": "Aeradogelo5",
+    "titulo": "A Era do Gelo: O Big Bang",
+    "capa": "https://i.assistir.biz/t/p/w342/k3lmQw2wePJAoK8C9UxwXLIDoOG.avif",
+    "url": "https://hls.astr.digital/hls/a-era-do-gelo-o-big-bang/master.m3u8?hash=C_g-Tybt2ny7pPIAmtHdXQ&expires=1771980189"
   },
     {
     "id": "",
@@ -60,6 +60,7 @@
     "url": ""
   }
 ]
+
 
 
 
