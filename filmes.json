@@ -1,114 +1,86 @@
 [
-    {
-    "id": "Velozes",
-    "titulo": "Velozes e Furiosos",
-    "capa": "https://i.assistir.biz/t/p/w342/1kzW2GImY1YVmLRx3NLhXFBfLLO.jpg",
-    "url": "https://hls-proxy.astr.digital/hls/velozes-e-furiosos-desafio-em-toquio/master.m3u8?hash=ici79WAC_i2CTytjfEWy3A&expires=1771972669"
-  },
   {
-    "id": "Piratas1",
-    "titulo": "Piratas do Caribe",
-    "capa": "https://i.assistir.biz/t/p/w342/zUpeLvZJw5Tf22BAjraOZFex9E0.jpg",
-    "url": "https://hls-proxy.astr.digital/hls/piratas-do-caribe-a-maldicao-do-perola-negra/master.m3u8?hash=bifEHy0PawOSh-iAn3qIOA&expires=1771973758"
-  },
-    {
-    "id": "Piratas3",
-    "titulo": "Piratas do Caribe: No Fim do Mundo",
-    "capa": "https://i.assistir.biz/t/p/w342/2vgdFnsThB3acNVSUN9TzpUwLg5.jpg",
-    "url": "https://hls.astr.digital/hls/piratas-do-caribe-no-fim-do-mundo/master.m3u8?hash=5MNvAyomlSyAWO2khPAZ5Q&expires=1771976540"
-  },
-   {
-    "id": "Piratas4",
-    "titulo": "Piratas do Caribe: Navegando em Águas Misteriosas",
-    "capa": "https://i.assistir.biz/t/p/w342/mQuyx1qXOc6ftTctYVG3gcvWrEH.jpg",
-    "url": "https://hls-proxy.astr.digital/hls/piratas-do-caribe-navegando-em-aguas-misteriosas/master.m3u8?hash=v1oATAuwnrRb6fDkMPV-3Q&expires=1771976779"
-  },
-    {
-    "id": "Pitatas2",
-    "titulo": "Piratas do Caribe: O Baú da Morte",
-    "capa": "https://i.assistir.biz/t/p/w342/dCXOveWolVMMbJZQ0cNslpqohPM.jpg",
-    "url": "https://hls.astr.digital/hls/piratas-do-caribe-o-bau-da-morte/master.m3u8?hash=HoYhYBPlRzZqiPptGy_3vA&expires=1771976279"
-  },
-    {
-    "id": "Aeradogelo5",
-    "titulo": "A Era do Gelo: O Big Bang",
-    "capa": "https://upload.wikimedia.org/wikipedia/pt/c/c5/Ice_age_collision_course.jpg",
-    "url": "https://hls.astr.digital/hls/a-era-do-gelo-o-big-bang/master.m3u8?hash=C_g-Tybt2ny7pPIAmtHdXQ&expires=1771980189"
-  },
-    {
-    "id": "aeradogelo4",
-    "titulo": "A Era do Gelo 4",
-    "capa": "https://upload.wikimedia.org/wikipedia/pt/6/6c/Ice_Age_Continental_Drift.jpg",
-    "url": "https://hls.astr.digital/hls/a-era-do-gelo-4/master.m3u8?hash=XFUreDIRMwqhmK92Gwz1PA&expires=1771980804"
-  },
-    {
-    "id": "aeradogelo3",
-    "titulo": "A Era do Gelo 3",
-    "capa": "https://upload.wikimedia.org/wikipedia/pt/9/99/Dawn_of_the_Dinosaurs.jpg",
-    "url": "https://hls-proxy.astr.digital/hls/a-era-do-gelo-3/master.m3u8?hash=Ba81Fch7LQR2-477SwI1Pg&expires=1771980906"
-  },
-    {
-    "id": "carros3",
-    "titulo": "Carros 3",
-    "capa": "https://i.assistir.biz/t/p/w342/lVPFdORefTKXKFiSktrXbiFDNAK.jpg",
-    "url": "https://hls-proxy.astr.digital/hls/carros-3/master.m3u8?hash=1rK5WGxiNKTT1SjviEXFLw&expires=1771979402"
-  },
-  {
-    "id": "Motoquieo1",
-    "titulo": "Motoqueiro Fantasma",
-    "capa": "https://upload.wikimedia.org/wikipedia/pt/d/d7/Ghostrider_cartaz.jpg",
-    "url": "https://hls-proxy.astr.digital/hls/motoqueiro-fantasma/master.m3u8?hash=rpa3dvwQHzD7AsIuV_Ev3Q&expires=1771981038"
-  },
-    {
-    "id": "av1",
-    "titulo": "Aviões",
-    "capa": "https://raw.githubusercontent.com/win64k-lgtm/twister/refs/heads/main/4KrnsveRY7O6YR2X0j1vGrEksIZ.jpg",
-    "url": "https://hls.astr.digital/hls/avioes/master.m3u8?hash=VTp-7sGzpzP9MKxHrjaJEw&expires=1771983337"
-  },
-    {
-    "id": "v6",
-    "titulo": "Velozes & Furiosos 6",
-    "capa": "https://i.assistir.biz/t/p/w342/h8SD0Kkqv3PUBneQX9tFsDrFu8.jpg",
-    "url": "https://hls-proxy.astr.digital/hls/velozes-e-furiosos-6/master.m3u8?hash=pczOwV8hkeQqzPUT_tggyQ&expires=1771983574"
-  },
-    {
-    "id": "v9",
-    "titulo": "Velozes & Furiosos 9",
-    "capa": "https://i.assistir.biz/t/p/w342/6TuEPZ3ItlBO8WmH8BmY2aGLhes.jpg",
-    "url": "https://hls-proxy.astr.digital/hls/velozes-e-furiosos-9/master.m3u8?hash=lKcC8jvdeDTuz_Je7cbtCw&expires=1771983651"
-  },
-    {
-    "id": "v11",
+    "id": "velozes_furiosos_hobbs_shaw",
     "titulo": "Velozes & Furiosos: Hobbs & Shaw",
-    "capa": "https://i.assistir.biz/t/p/w342/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg",
-    "url": "https://hls-proxy.astr.digital/hls/velozes-e-furiosos-hobbs-e-shaw/master.m3u8?hash=vCZS1taC3yAffBdSQy8gLw&expires=1771983728"
+    "capa": "https://assistir.biz/assets/img/logo_v5.webp",
+    "url": "https://hls-proxy.astr.digital/hls/velozes-e-furiosos-hobbs-e-shaw/master.m3u8?hash=adcIRebXdmZSgxyLqORKLw&expires=1772050722"
+  },
+  {
+    "id": "velozes_furiosos_9",
+    "titulo": "Velozes & Furiosos 9",
+    "capa": "https://assistir.biz/assets/img/logo_v5.webp",
+    "url": "https://hls-proxy.astr.digital/hls/velozes-e-furiosos-9/master.m3u8?hash=YZcRfZcMa0RKfPszUbaHKg&expires=1772050712"
+  },
+  {
+    "id": "velozes_furiosos_6",
+    "titulo": "Velozes & Furiosos 6",
+    "capa": "https://assistir.biz/assets/img/logo_v5.webp",
+    "url": "https://hls.astr.digital/hls/velozes-e-furiosos-6/master.m3u8?hash=SYXCu6aEc9Url76_UFw9cw&expires=1772050702"
+  },
+  {
+    "id": "avioes",
+    "titulo": "Aviões",
+    "capa": "https://assistir.biz/assets/img/logo_v5.webp",
+    "url": "https://hls-proxy.astr.digital/hls/avioes/master.m3u8?hash=--hcgIT5dwEGrgxS0Ue8yg&expires=1772050694"
+  },
+  {
+    "id": "motoqueiro_fantasma",
+    "titulo": "Motoqueiro Fantasma",
+    "capa": "https://assistir.biz/assets/img/logo_v5.webp",
+    "url": "https://hls.astr.digital/hls/motoqueiro-fantasma/master.m3u8?hash=ZS1afNZot8czwu2yhhtgHA&expires=1772050683"
+  },
+  {
+    "id": "carros_3",
+    "titulo": "Carros 3",
+    "capa": "https://assistir.biz/assets/img/logo_v5.webp",
+    "url": "https://hls.astr.digital/hls/carros-3/master.m3u8?hash=uA8hzbcRo4z0DGluQCm3CA&expires=1772050664"
+  },
+  {
+    "id": "a_era_do_gelo_3",
+    "titulo": "A Era do Gelo 3",
+    "capa": "https://assistir.biz/assets/img/logo_v5.webp",
+    "url": "https://hls.astr.digital/hls/a-era-do-gelo-3/master.m3u8?hash=ZGtxjCElM_wN7cgkAuq1ig&expires=1772050656"
+  },
+  {
+    "id": "a_era_do_gelo_4",
+    "titulo": "A Era do Gelo 4",
+    "capa": "https://assistir.biz/assets/img/logo_v5.webp",
+    "url": "https://hls-proxy.astr.digital/hls/a-era-do-gelo-4/master.m3u8?hash=WVxTw5KebbUUiNoFdqe0mA&expires=1772050647"
+  },
+  {
+    "id": "a_era_do_gelo_o_big_bang",
+    "titulo": "A Era do Gelo: O Big Bang",
+    "capa": "https://assistir.biz/assets/img/logo_v5.webp",
+    "url": "https://hls.astr.digital/hls/a-era-do-gelo-o-big-bang/master.m3u8?hash=Xtygsp_yu_353KsuJInUyg&expires=1772050637"
+  },
+  {
+    "id": "piratas_do_caribe_o_bau_da_morte",
+    "titulo": "Piratas do Caribe: O Baú da Morte",
+    "capa": "https://assistir.biz/assets/img/logo_v5.webp",
+    "url": "https://hls.astr.digital/hls/piratas-do-caribe-o-bau-da-morte/master.m3u8?hash=P9qMZc3DXJU3Mu7CZrRkhQ&expires=1772050612"
+  },
+  {
+    "id": "piratas_do_caribe_navegando_em_aguas_misteriosas",
+    "titulo": "Piratas do Caribe: Navegando em Águas Misteriosas",
+    "capa": "https://assistir.biz/assets/img/logo_v5.webp",
+    "url": "https://hls.astr.digital/hls/piratas-do-caribe-navegando-em-aguas-misteriosas/master.m3u8?hash=ACX3HsWxJkGdtJiE4WYzEQ&expires=1772050602"
+  },
+  {
+    "id": "piratas_do_caribe_no_fim_do_mundo",
+    "titulo": "Piratas do Caribe: No Fim do Mundo",
+    "capa": "https://assistir.biz/assets/img/logo_v5.webp",
+    "url": "https://hls-proxy.astr.digital/hls/piratas-do-caribe-no-fim-do-mundo/master.m3u8?hash=E7l1S0afeC_3PzbLUqI_2g&expires=1772050585"
+  },
+  {
+    "id": "piratas_do_caribe_a_maldicao_do_perola_negra",
+    "titulo": "Piratas do Caribe: A Maldição do Pérola Negra",
+    "capa": "https://assistir.biz/assets/img/logo_v5.webp",
+    "url": "https://hls.astr.digital/hls/piratas-do-caribe-a-maldicao-do-perola-negra/master.m3u8?hash=QdNY84UdSZl0N6DqRl3xvg&expires=1772050565"
+  },
+  {
+    "id": "velozes_e_furiosos_desafio_em_toquio",
+    "titulo": "Velozes e Furiosos: Desafio em Tóquio",
+    "capa": "https://assistir.biz/assets/img/logo_v5.webp",
+    "url": "https://hls.astr.digital/hls/velozes-e-furiosos-desafio-em-toquio/master.m3u8?hash=U5Fl_V2ecyezkqbuJ8PcjA&expires=1772050523"
   }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
