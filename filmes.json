@@ -24,34 +24,16 @@
     "url": "https://hls-proxy.astr.digital/hls/avioes/master.m3u8?hash=FaCW-rrEh-nSQnbDwAx6Bg&expires=1772052252"
   },
   {
-    "id": "motoqueiro_fantasma",
-    "titulo": "Motoqueiro Fantasma",
-    "capa": "https://i.assistir.biz/t/p/w342/vVGVlwRrvVgLPE98rwo8jo3QC2b.jpg",
-    "url": "https://hls.astr.digital/hls/motoqueiro-fantasma/master.m3u8?hash=1J4DCvvYSdkV19egGJH3Cw&expires=1772052186"
-  },
-  {
     "id": "carros_3",
     "titulo": "Carros 3",
     "capa": "https://i.assistir.biz/t/p/w342/lVPFdORefTKXKFiSktrXbiFDNAK.jpg",
     "url": "https://hls.astr.digital/hls/motoqueiro-fantasma/master.m3u8?hash=RTH_N4PqurrICjivymwihQ&expires=1772052180"
   },
   {
-    "id": "a_era_do_gelo_3",
-    "titulo": "A Era do Gelo 3",
-    "capa": "https://i.assistir.biz/t/p/w342/8TmTkDpCTBzWvH7iX6gRqlElMeu.jpg",
-    "url": "https://hls.astr.digital/hls/carros-3/master.m3u8?hash=qlZ15T1VVjshe0cKZDJ1mg&expires=1772052167"
-  },
-  {
     "id": "a_era_do_gelo_4",
     "titulo": "A Era do Gelo 4",
     "capa": "https://i.assistir.biz/t/p/w342/dWiHLqARtyAAOy0nLvXIxRYkfNA.jpg",
     "url": "https://hls.astr.digital/hls/a-era-do-gelo-3/master.m3u8?hash=FDH5hal09mHDBeXJOMeMpw&expires=1772052157"
-  },
-  {
-    "id": "a_era_do_gelo_4",
-    "titulo": "A Era do Gelo 4",
-    "capa": "https://i.assistir.biz/t/p/w342/dWiHLqARtyAAOy0nLvXIxRYkfNA.jpg",
-    "url": "https://hls.astr.digital/hls/a-era-do-gelo-4/master.m3u8?hash=S_-pmuPbVoo13wvBNsPymg&expires=1772052150"
   },
   {
     "id": "piratas_do_caribe_o_bau_da_morte",
@@ -71,12 +53,7 @@
     "capa": "https://i.assistir.biz/t/p/w342/2vgdFnsThB3acNVSUN9TzpUwLg5.jpg",
     "url": "https://hls.astr.digital/hls/piratas-do-caribe-navegando-em-aguas-misteriosas/master.m3u8?hash=CH05B3JFwaUU2QBDis3jiA&expires=1772052098"
   },
-  {
-    "id": "piratas_do_caribe_no_fim_do_mundo",
-    "titulo": "Piratas do Caribe: No Fim do Mundo",
-    "capa": "https://i.assistir.biz/t/p/w342/2vgdFnsThB3acNVSUN9TzpUwLg5.jpg",
-    "url": "https://hls.astr.digital/hls/piratas-do-caribe-no-fim-do-mundo/master.m3u8?hash=1egU0vD8GgH4q4Sdd5OZ8A&expires=1772052087"
-  },
+
   {
     "id": "piratas_do_caribe_a_maldicao_do_perola_negra",
     "titulo": "Piratas do Caribe: A Maldição do Pérola Negra",
