@@ -1,0 +1,29 @@
+{
+  "id": "breaking_bad",
+  "tipo": "serie",
+  "titulo": "Breaking Bad",
+  "capa": "url_da_capa.jpg",
+  "backdrop": "url_backdrop.jpg",
+  "sinopse": "Um professor de química...",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Pilot",
+          "url": "url_do_video.mp4"
+        },
+        {
+          "numero": 2,
+          "titulo": "Cat's in the Bag...",
+          "url": "url_do_video.mp4"
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [...]
+    }
+  ]
+}
