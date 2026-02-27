@@ -8,11 +8,63 @@
       {
         "numero": 1,
         "episodios": [
-          {
-            "numero": 1,
-            "titulo": "EP1",
-            "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E02.mp4"
-          }
+          { "numero": 1, "titulo": "EP1", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E01.mp4" },
+          { "numero": 2, "titulo": "EP2", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E02.mp4" },
+          { "numero": 3, "titulo": "EP3", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E03.mp4" },
+          { "numero": 4, "titulo": "EP4", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E04.mp4" },
+          { "numero": 5, "titulo": "EP5", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E05.mp4" },
+          { "numero": 6, "titulo": "EP6", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E06.mp4" },
+          { "numero": 7, "titulo": "EP7", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E07.mp4" },
+          { "numero": 8, "titulo": "EP8", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E08.mp4" },
+          { "numero": 9, "titulo": "EP9", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E09.mp4" },
+          { "numero": 10, "titulo": "EP10", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E10.mp4" },
+          { "numero": 11, "titulo": "EP11", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E11.mp4" },
+          { "numero": 12, "titulo": "EP12", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E12.mp4" },
+          { "numero": 13, "titulo": "EP13", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E13.mp4" },
+          { "numero": 14, "titulo": "EP14", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E14.mp4" },
+          { "numero": 15, "titulo": "EP15", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E15.mp4" },
+          { "numero": 16, "titulo": "EP16", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E16.mp4" },
+          { "numero": 17, "titulo": "EP17", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E17.mp4" },
+          { "numero": 18, "titulo": "EP18", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E18.mp4" },
+          { "numero": 19, "titulo": "EP19", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E19.mp4" },
+          { "numero": 20, "titulo": "EP20", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E20.mp4" }
+        ]
+      },
+      {
+        "numero": 2,
+        "episodios": [
+          { "numero": 1, "titulo": "EP1", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E01.mp4" },
+          { "numero": 2, "titulo": "EP2", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E02.mp4" },
+          { "numero": 3, "titulo": "EP3", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E03.mp4" },
+          { "numero": 4, "titulo": "EP4", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E04.mp4" },
+          { "numero": 5, "titulo": "EP5", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E05.mp4" },
+          { "numero": 6, "titulo": "EP6", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E06.mp4" },
+          { "numero": 7, "titulo": "EP7", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E07.mp4" },
+          { "numero": 8, "titulo": "EP8", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E08.mp4" },
+          { "numero": 9, "titulo": "EP9", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E09.mp4" },
+          { "numero": 10, "titulo": "EP10", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E10.mp4" },
+          { "numero": 11, "titulo": "EP11", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E11.mp4" },
+          { "numero": 12, "titulo": "EP12", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E12.mp4" },
+          { "numero": 13, "titulo": "EP13", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E13.mp4" },
+          { "numero": 14, "titulo": "EP14", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E14.mp4" },
+          { "numero": 15, "titulo": "EP15", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E15.mp4" },
+          { "numero": 16, "titulo": "EP16", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E16.mp4" },
+          { "numero": 17, "titulo": "EP17", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E17.mp4" },
+          { "numero": 18, "titulo": "EP18", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E18.mp4" },
+          { "numero": 19, "titulo": "EP19", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E19.mp4" },
+          { "numero": 20, "titulo": "EP20", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E20.mp4" },
+          { "numero": 21, "titulo": "EP21", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E21.mp4" },
+          { "numero": 22, "titulo": "EP22", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E22.mp4" },
+          { "numero": 23, "titulo": "EP23", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E23.mp4" },
+          { "numero": 24, "titulo": "EP24", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E24.mp4" },
+          { "numero": 25, "titulo": "EP25", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E25.mp4" },
+          { "numero": 26, "titulo": "EP26", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E26.mp4" },
+          { "numero": 27, "titulo": "EP27", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E27.mp4" },
+          { "numero": 28, "titulo": "EP28", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E28.mp4" },
+          { "numero": 29, "titulo": "EP29", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E29.mp4" },
+          { "numero": 30, "titulo": "EP30", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E30.mp4" },
+          { "numero": 31, "titulo": "EP31", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E31.mp4" },
+          { "numero": 32, "titulo": "EP32", "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S02E32.mp4" }
         ]
       }
     ]
