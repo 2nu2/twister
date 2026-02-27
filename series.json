@@ -1,29 +1,20 @@
-{
-  "id": "breaking_bad",
-  "tipo": "serie",
-  "titulo": "Breaking Bad",
-  "capa": "url_da_capa.jpg",
-  "backdrop": "url_backdrop.jpg",
-  "sinopse": "Um professor de química...",
-  "temporadas": [
-    {
-      "numero": 1,
-      "episodios": [
-        {
-          "numero": 1,
-          "titulo": "Pilot",
-          "url": "url_do_video.mp4"
-        },
-        {
-          "numero": 2,
-          "titulo": "Cat's in the Bag...",
-          "url": "url_do_video.mp4"
-        }
-      ]
-    },
-    {
-      "numero": 2,
-      "episodios": [...]
-    }
-  ]
-}
+[
+  {
+    "id": "Kick",
+    "tipo": "serie",
+    "titulo": "Kick Buttowski",
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/3/37/Kick_Buttowski_2.jpg",
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "EP1",
+            "url": "https://ia801300.us.archive.org/4/items/kick-buttowski_202509/Kick%20Buttowski%20S01E02.mp4"
+          }
+        ]
+      }
+    ]
+  }
+]
