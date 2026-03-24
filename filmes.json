@@ -6,7 +6,7 @@
     "backdrop": "https://wallpaperaccess.com/full/875316.jpg",
     "sinopse": "Sean Boswell é um piloto de rua que desafia seu rival e bate o carro no fim da corrida. Então, Sean decide se mudar para o Japão em companhia de seu pai para evitar a prisão nos Estados Unidos, já que os rachas não são nada populares com as autoridades. Em Tóquio, ele começa a aprender um excitante e perigoso estilo novo de competir nas ruas. Só que os riscos ficam ainda mais altos quando Sean decide competir com o campeão local e acaba se apaixonando pela namorada dele",
     "url": "https://ia800701.us.archive.org/23/items/velozes-e-furiosos-3/Velozes%20e%20furiosos%203.ia.mp4?cnt=0",
-    "destaque": true
+    "destaque": false
   },
   {
     "id": "piratas_do_caribe_a_maldicao_do_perola_negra",
@@ -301,6 +301,128 @@
   "rating": 7.825,
   "year": "2010",
   "url": "https://ia601701.us.archive.org/29/items/tropadeeliteii-police-paixaoflix/Tropa%20de%20Elite%20II_ready.mp4?cnt=0"
+},
+  {
+  "id": "a_maldicao_de_cinderela",
+  "titulo": "A Maldição de Cinderela",
+  "capa": "https://image.tmdb.org/t/p/w342/x7joKRpqjwmE4PkBiORzIquYtqR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/orTQxcx2aoNpx1DIKTjBzpzvzd0.jpg",
+  "sinopse": "Baseado no mesmo conto popular que a Disney atualizou e popularizou para crianças na década de 1950. Desta vez, uma pequena adaptação da história coloca Cinderela e todos ao seu redor dentro de uma bola sangrenta que eles nunca esquecerão.",
+  "rating": 5.895,
+  "year": "2024",
+  "url": "https://ia600402.us.archive.org/18/items/PaixaoFlix-A-Maldicao-de-Cinderela-2024/A%20Maldi%C3%A7%C3%A3o%20de%20Cinderela%202024%202%200.mp4?cnt=0"
+},
+  {
+  "id": "avatar_o_caminho_da_agua",
+  "titulo": "Avatar: O Caminho da Água",
+  "capa": "https://image.tmdb.org/t/p/w342/9gZkGcvhyZmhpYDCeTCh0k6RGyh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg",
+  "sinopse": "12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.",
+  "rating": 7.596,
+  "year": "2022",
+  "url": "https://ia600805.us.archive.org/25/items/PaixaoFlix-Avatar-O-Caminho-da-Agua/Avatar%20O%20Caminho%20da%20%C3%81gua.mp4"
+},
+  {
+  "id": "ilha_do_medo",
+  "titulo": "Ilha do Medo",
+  "capa": "https://image.tmdb.org/t/p/w342/9JHlzQyzyXcsGgl0htYfsm8AnfS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
+  "sinopse": "No verão de 1954, os agentes judiciais Teddy Daniels (DiCaprio) e Chuck Aule (Ruffalo) foram designados para uma ilha remota do porto de Boston para investigar o desaparecimento de uma perigosa assassina (Mortimer) que estava reclusa no hospital psiquiátrico Ashecliffe, um centro penitenciário para criminosos perturbados dirigido pelo sinistro médico John Cawley. (Kingsley). Logo eles descobrem que o centro guarda muitos segredos e que a ilha esconde algo mais perigoso que os pacientes.",
+  "rating": 8.199,
+  "year": "2010",
+  "url": "https://ia803200.us.archive.org/27/items/PaixaoFlix-Ilha-do-Medo-Shutter-Island/Ilha%20do%20Medo.mp4"
+},
+  {
+  "id": "a_cela_dos_milagres",
+  "titulo": "A Cela dos Milagres",
+  "capa": "https://image.tmdb.org/t/p/w342/xaloioubOPQOFaERBPxLHnONyeJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fIuuYkIjF9Q7W26YbIeKX5OWwiL.jpg",
+  "sinopse": "Preso por um crime que não cometeu, um pai dedicado luta para provar a própria inocência. Enquanto isso, sua filha precisa se virar sozinha.",
+  "rating": 7.838,
+  "year": "2025",
+  "url": "https://ia800806.us.archive.org/21/items/PaixaoFlix-A-Cela-dos-Milagres/A%20Cela%20dos%20Milagres%202026%205%201.mp4"
+},
+  {
+  "id": "corra_que_a_policia_vem_ai_2",
+  "titulo": "Corra que a Polícia Vem Aí! 2½",
+  "capa": "https://image.tmdb.org/t/p/w342/vm2sW0g0wMYCFNGvyBDAtxtjW6S.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kCW0C3Bv5IsasICx3StdNEejfB5.jpg",
+  "sinopse": "O tenente Frank Drebin precisa descobrir como deter o infame plano de Quentin Hapsburg, que planeja destruir o meio ambiente. Nesta hilariante sequência, estão de volta também Jane, a mulher que consegue derreter um sanduíche de queijo em 20 passos, e o destemido capitão Ed Hocken.",
+  "rating": 6.806,
+  "year": "1991",
+  "url": "https://ia800500.us.archive.org/5/items/PaixaoFlix-Corra-que-a-Policia-Vem-Ai-2-1991/Corra%20que%20a%20Pol%C3%ADcia%20Vem%20A%C3%AD%202%20dat2014.mp4"
+},
+  {
+  "id": "fique_rico_ou_morra_tentando",
+  "titulo": "Fique Rico ou Morra Tentando",
+  "capa": "https://image.tmdb.org/t/p/w342/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bxJmFRjwWnpoLFkp5OSzA7xfzn6.jpg",
+  "sinopse": "Após a morte de sua mãe quando ele era um menino, Marcus tem pouco apoio em sua vida. Ele começa a trabalhar para o traficante Levar e seu assistente. Apesar de Marcus fazer bom dinheiro vendendo drogas, seu sonho é se tornar um rapper. Quando ele reencontra um antigo amor e é baleado várias vezes durante um assalto, Marcus decide que é hora de mudar sua vida. No entanto, seus antigos sócios não vão deixá-lo ir tão facilmente.",
+  "rating": 6.8,
+  "year": "2005",
+  "url": "https://ia803202.us.archive.org/29/items/PaixaoFlix-Fique-Rico-ou-Morra-Tentando/Fique%20Rico%20ou%20Morra%20Tentando.mp4?cnt=0"
+},
+  {
+  "id": "o_maskara",
+  "titulo": "O Máskara",
+  "capa": "https://image.tmdb.org/t/p/w342/zLLC7AldfrYUot7lsw3ePFSs87e.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bQlw59HncOXX9alFlOYKHAvSnm.jpg",
+  "sinopse": "Em Edge City vive Stanley Ipkiss, um cara decente que trabalha em um banco, mas é socialmente desajeitado e sem muito sucesso com as mulheres. Após um dos piores dias da sua vida, ele acha no mar a estranha máscara de Loki, um deus escandinavo. Quando Stanley coloca a máscara, se transforma em \"O Máskara\", um ser com o rosto verde que possui a coragem para fazer as coisas mais arriscadas e divertidas que Stanley receia fazer, inclusive flertar com Tina Carlyle, a bela e sensual cantora que se apresenta no Coco Bongo, a discoteca do momento. O Máskara tem velocidade sobre-humana e um humor não-convencional e, enquanto isto, o gângster Dorian Tyrrell, que namora Tina, se esforça para destruir o Máskara e se apoderar da máscara para usar seus poderes para o mal.",
+  "rating": 6.978,
+  "year": "1994",
+  "url": "https://ia801405.us.archive.org/19/items/PaixaoFlix-O-Maskara-1994/O%20M%C3%A1skara%201994.mp4"
+},
+  {
+  "id": "mufasa_o_rei_leao",
+  "titulo": "Mufasa: O Rei Leão",
+  "capa": "https://image.tmdb.org/t/p/w342/iMVuv6Gz5fj7vZ51IjRF3AiW87y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+  "sinopse": "Acompanhe a história épica da ascensão improvável do amado rei das Terras do Reino. Órfão e sozinho, Mufasa se perde até encontrar Taka, herdeiro de uma linhagem real. Isso dá início a uma jornada épica que testa os laços entre os dois enquanto enfrentam um inimigo mortal.",
+  "rating": 7.311,
+  "year": "2024",
+  "url": "https://ia601500.us.archive.org/24/items/mufasa-o-rei-leao-paixaoflix/CONV_Mufasa%20O%20Rei%20Leao.ia.mp4"
+},
+  {
+  "id": "percy_jackson_e_o_mar_de_monstros",
+  "titulo": "Percy Jackson e o Mar de Monstros",
+  "capa": "https://image.tmdb.org/t/p/w342/izLw6mf5coAJZV6n9wDfbYWXXHW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fvrGb6zfQaQ8RD9pC8o9vv1b7W2.jpg",
+  "sinopse": "Percy e seus amigos estão na busca pelo Velocino de Ouro, o único artefato mágico capaz de proteger o Acampamento Meio-Sangue da destruição. É com essa missão que ele e outros campistas partem para uma eletrizante viagem pelo Mar de Monstros, onde deparam com seres fantásticos, perigos e situações inusitadas, que põem à prova seu heroísmo e sua herança. Está em jogo a existência de seu refúgio predileto e, até então, o lugar mais seguro do mundo para eles.",
+  "rating": 6.026,
+  "year": "2013",
+  "url": "https://ia600301.us.archive.org/28/items/percy-jackson-e-o-mar-de-monstros-paixaoflix/CONV_Percy%20Jackson%20e%20o%20Mar%20de%20Monstros.ia.mp4"
+},
+  {
+  "id": "dinheiro_suspeito",
+  "titulo": "Dinheiro Suspeito",
+  "capa": "https://image.tmdb.org/t/p/w342/bm04TGkE5ySrHbHlO6YloYZvs4P.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/3F2EXWF1thX0BdrVaKvnm6mAhqh.jpg",
+  "sinopse": "Quando uma equipe de policiais de Miami encontra milhões de dólares em um muquifo usado como esconderijo, a confiança fica abalada e todos viram suspeitos.",
+  "rating": 7.063,
+  "year": "2026",
+  "url": "https://ia600304.us.archive.org/3/items/dinheiro-suspeito-paixaoflix/CONV_Dinheiro%20Suspeito.ia.mp4"
+},
+  {
+  "id": "as_branquelas",
+  "titulo": "As Branquelas",
+  "capa": "https://image.tmdb.org/t/p/w342/aJZOcorpgloDLkPP6ED0t9sXjNu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/85k0kaoRgGmF6ACq0M61AFxhjLN.jpg",
+  "sinopse": "O que acontece quando dois atrapalhados agentes do FBI se disfarçam de princesas mega-ricas para se infiltrarem na alta sociedade? O resultado é situações extremamente engraçadas e diversão total ao ver estes dois irmãos azarados transformando-se em duas senhoritas refinadas e com estilo!",
+  "rating": 6.931,
+  "year": "2004",
+  "url": "https://ia800309.us.archive.org/26/items/as-branquelas-sem-cortes-paixaoflix/As%20Branquelas%20Sem%20Cortes.mp4?cnt=0",
+  "destaque": true
+},
+  {
+  "id": "hierarquia_do_crime",
+  "titulo": "Hierarquia do Crime",
+  "capa": "https://image.tmdb.org/t/p/w342/vMVnLjbHy5yxJL5Pr0dikIUmG34.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ImIRPOvlxKC1jsKld5ZEpxmvmV.jpg",
+  "sinopse": "Dois irmãos adotivos no Texas são pegos no crime, fugindo da polícia e de mafiosos russos.",
+  "rating": 5.896,
+  "year": "2025",
+  "url": "https://ia600707.us.archive.org/5/items/paixaoflix-series-hierarquia-do-crime-2025/Hierarquia.do.Crime.2025.ia.mp4",
+  "destaque": true
 }
 ]
 
