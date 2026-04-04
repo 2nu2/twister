@@ -181,33 +181,43 @@
     "url": "https://ia803208.us.archive.org/24/items/gtdbts-2-oultmpdo_202311/GTDBTS2OULTMPDO.ia.mp4?cnt=0"
   },
   {
-    "id": "ossimpfilme",
-    "titulo": "Os Simpisons - Filme",
-    "capa": "https://i.assistir.biz/t/p/w342/sMcsZ7BlOf2LDhTlfPlWb3w6lJM.jpg",
-    "url": "https://ia902804.us.archive.org/13/items/os-s-1/OsS1.mp4?cnt=0"
-  },
-  {
-    "id": "svsbatman",
-    "titulo": "Batman vs Superman",
-    "capa": "https://i.assistir.biz/t/p/w342/f43gE7oFn3nCUZX3FRw0jVQK8GK.jpg",
+    "id": "batman_vs_superman_a_origem_da_justica",
+    "titulo": "Batman vs Superman: A Origem da Justiça",
+    "capa": "https://image.tmdb.org/t/p/w342/vh6pjeGH0GQupLepPCZn5PylcRg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
+    "sinopse": "Temendo que as ações de um super-herói divino não tenham sido controladas, o formidável e vigoroso vigilante de Gotham City enfrenta o salvador mais reverenciado e moderno de Metrópolis, enquanto o mundo luta com o tipo de herói que realmente precisa. E com Batman e Superman em guerra um contra o outro, uma nova ameaça rapidamente surge, colocando a humanidade em maior perigo do que nunca antes.",
+    "rating": 5.992,
+    "year": "2016",
     "url": "https://ia601606.us.archive.org/27/items/btvss_202603/btvss.mp4?cnt=0"
   },
   {
-    "id": "vingadores1",
+    "id": "os_vingadores_the_avengers",
     "titulo": "Os Vingadores: The Avengers",
-    "capa": "https://i.assistir.biz/t/p/w342/j9hwS307Zlc5mQTbAnwV75vXG0H.jpg",
+    "capa": "https://image.tmdb.org/t/p/w342/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+    "sinopse": "Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.",
+    "rating": 7.987,
+    "year": "2012",
     "url": "https://ia600601.us.archive.org/24/items/os-vingadores-the-avengers/Os%20Vingadores%20The%20Avengers.mp4?cnt=0"
   },
   {
     "id": "megamente",
     "titulo": "Megamente",
-    "capa": "https://i.assistir.biz/t/p/w342/kbiEPYIfdRENV7t0KvMZJ2HIfcQ.jpg",
+    "capa": "https://image.tmdb.org/t/p/w342/iNGifck9VGGVIlpdK3XsfD6Rptk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
+    "sinopse": "Tudo o que vilão Megamente mais queria era eliminar seu adversário Metro Man e assim dominar a cidade de Metro City. Só que para isso era necessário um plano ainda mais diabólico do que todos já tentados anteriormente. Um dia, com a ajuda de Criado e após sequestrar a repórter Rosane Rocha, o malvado consegue o inimaginável, para ele e para todos: dar um sumiço no herói. A única coisa que ele não contava era que sua vida se tornaria tão chata a ponto de ele inventar um herói para combater.",
+    "rating": 7,
+    "year": "2010",
     "url": "https://ia800609.us.archive.org/30/items/assistir-megamente-2010-dublado-online-gratis-em-hd/Assistir%20Megamente%202010%20Dublado%20Online%20Gr%C3%A1tis%20em%20HD.mp4"
   },
   {
     "id": "velozes_furiosos_9",
     "titulo": "Velozes & Furiosos 9",
-    "capa": "https://i.assistir.biz/t/p/w342/6TuEPZ3ItlBO8WmH8BmY2aGLhes.jpg",
+    "capa": "https://image.tmdb.org/t/p/w342/6TuEPZ3ItlBO8WmH8BmY2aGLhes.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
+    "sinopse": "Dominic Toretto e sua família precisam enfrentar o seu irmão mais novo Jakob, um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher.",
+    "rating": 7.013,
+    "year": "2021",
     "url": "https://dn720306.ca.archive.org/0/items/velozes-e-furiosos-9-2021-dublado/Velozes%20e%20Furiosos%209%202021%20Dublado.mp4"
   },
   {
