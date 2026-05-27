@@ -91,6 +91,16 @@
     "url": "https://dn720306.ca.archive.org/0/items/velozes-e-furiosos-9-2021-dublado/Velozes%20e%20Furiosos%209%202021%20Dublado.mp4"
   },
   {
+    "id": "homem_de_ferro",
+    "titulo": "Homem de Ferro",
+    "capa": "https://image.tmdb.org/t/p/w342/mqN7RxojEiPoh3FTSTwOtwg7KAu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
+    "sinopse": "Tony Stark é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter ego do Homem de Ferro.",
+    "rating": 7.66,
+    "year": "2008",
+    "url": "https://dn711507.ca.archive.org/0/items/homem-de-ferro-iron-man-brazil-dvd-18-07-2008/Homem%20de%20Ferro%20%28IRON_MAN_BRAZIL%29%20DVD%20%2818-07-2008%29.mp4"
+  },
+  {
     "id": "homem_aranha_de_volta_ao_lar",
     "titulo": "Homem-Aranha: De Volta ao Lar",
     "capa": "https://image.tmdb.org/t/p/w342/1nkwRL17cAGO8A1yu3miRBdvOsl.jpg",
@@ -119,6 +129,26 @@
     "rating": 7.934,
     "year": "2021",
     "url": "https://dn720401.ca.archive.org/0/items/homem-aranha-sem-volta-para-casa-1080p/Homem%20Aranha%20%28Sem%20Volta%20Para%20Casa%29%20%281080p%29.mp4"
+  },
+  {
+    "id": "john_wick_3_parabellum",
+    "titulo": "John Wick 3: Parabellum",
+    "capa": "https://image.tmdb.org/t/p/w342/bE6XutmB6tcvzTHBx4JGJLlzouM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg",
+    "sinopse": "Após assassinar o chefe da máfia Santino D'Antonio no Hotel Continental, John Wick passa a ser perseguido pelos membros da Alta Cúpula sob a recompensa de U$14 milhões. Agora, ele precisa unir forças com antigos parceiros que o ajudaram no passado enquanto luta por sua sobrevivência.",
+    "rating": 7.437,
+    "year": "2019",
+    "url": "https://ia600101.us.archive.org/35/items/john.-wick.-3.-parabellum.-2019.ia_202301.mp4/John.Wick.3.Parabellum.2019.ia.mp4?cnt=0"
+  },
+  {
+    "id": "mib_homens_de_preto",
+    "titulo": "MIB - Homens de Preto",
+    "capa": "https://image.tmdb.org/t/p/w342/bUA0TD2COayMP6ur9Qbewdbbm2e.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/o9puyKpayQoX8ikIaYtf2PfKv3.jpg",
+    "sinopse": "Kay e Jay, os Homens de Preto, são o maior segredo já mantido no universo. Eles são agentes de uma agência não-oficial do governo e responsáveis por monitorar todos os encontros com alienígenas na Terra. Ao investigar uma série de atividades extraterrestres, descobrem um terrorista intergaláctico cuja missão é assassinar dois embaixadores de galáxias opostas.",
+    "rating": 7.221,
+    "year": "1997",
+    "url": "https://ia601802.us.archive.org/16/items/homens-de-preto-1/Homens%20de%20Preto%201.mp4"
   },
   {
     "id": "piratas_do_caribe_a_maldicao_do_perola_negra",
