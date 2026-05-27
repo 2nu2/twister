@@ -1,5 +1,25 @@
 [
   {
+    "id": "velozes_e_furiosos",
+    "titulo": "Velozes e Furiosos",
+    "capa": "https://image.tmdb.org/t/p/w342/rKaaYM4CtuJZFdOA0SZWbaMNHbn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/jY9ef5nqY4xIIMu3yzW3qamUCoi.jpg",
+    "sinopse": "Um investigador da polícia se infiltra em uma turma de rachas suspeita de roubar caminhões, mas acaba apaixonando-se pela irmã do líder.",
+    "rating": 7,
+    "year": "2001",
+    "url": "https://ia801502.us.archive.org/35/items/velozes-e-furiosos-1/Velozes%20e%20furiosos%201.ia.mp4?cnt=0"
+  },
+   {
+    "id": "velozes_furiosos",
+    "titulo": "+ Velozes + Furiosos",
+    "capa": "https://image.tmdb.org/t/p/w342/mx0CB8H78PQu0g9YUWG47hdi93S.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/90ooE5SbUEO0OVJHewNO7pgySb6.jpg",
+    "sinopse": "O ex-policial Brian comete uma grande traição, juntando-se a um amigo ex-presidiário no transporte de dinheiro sujo para uma importadora-exportadora muito suspeita.",
+    "rating": 6.5,
+    "year": "2003",
+    "url": "https://ia600703.us.archive.org/35/items/paixaoflix-series-velozes-e-furiosos-2/Velozes.e.Furiosos.2.ia.mp4?cnt=0"
+  },
+  {
     "id": "velozes_e_furiosos_desafio_em_toquio",
     "titulo": "Velozes e Furiosos: Desafio em Tóquio",
     "capa": "https://image.tmdb.org/t/p/w342/1kzW2GImY1YVmLRx3NLhXFBfLLO.jpg",
@@ -8,6 +28,66 @@
     "rating": 6.541,
     "year": "2006",
     "url": "https://ia800701.us.archive.org/23/items/velozes-e-furiosos-3/Velozes%20e%20furiosos%203.ia.mp4?cnt=0"
+  },
+  {
+    "id": "velozes_e_furiosos_4",
+    "titulo": "Velozes e Furiosos 4",
+    "capa": "https://image.tmdb.org/t/p/w342/7sjbAOmNFtfTyZ6KFC9t9FDDOcK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/25HepicRtrzZ3MVCqhfoxGDbHjw.jpg",
+    "sinopse": "Dominic Toretto descobre que sua amada Letty foi assassinada e resolve procurar pelo autor do crime. Enquanto isso, o agente Brian O'Conner está em busca de um traficante de drogas. Eles percebem que talvez procurem a mesma pessoa.",
+    "rating": 6.7,
+    "year": "2009",
+    "url": "https://ia800509.us.archive.org/26/items/paixaoflix-series-velozes-e-furiosos-4/Velozes.e.Furiosos.4.ia.mp4"
+  },
+  {
+    "id": "velozes_furiosos_5_operacao_rio",
+    "titulo": "Velozes & Furiosos 5: Operação Rio",
+    "capa": "https://image.tmdb.org/t/p/w342/5BKmQMUPOEtDFDCBW8jrUCI9ZbI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/lvSxooYCRuF3S2kHWXYTrcOtYco.jpg",
+    "sinopse": "Desde que o ex-policial Brian O'Conner e Mia Torretto libertaram Dom da prisão, eles viajam pelas fronteiras para fugir das autoridades. No Rio de Janeiro, eles fazem um último trabalho antes que possam ganhar sua liberdade definitiva. Montando sua equipe de elite de pilotos de carro, Brian e Dom sabem que têm de enfrentar o empresário corrupto que quer vê-los mortos, antes que o agente federal em sua trilha os encontre.",
+    "rating": 7.2,
+    "year": "2011",
+    "url": "https://ia600906.us.archive.org/35/items/paixaoflix-series-velozes-e-furiosos-5-operacao-rio/Velozes.e.Furiosos.5.Operacao.Rio.ia.mp4"
+  },
+  {
+    "id": "velozes_furiosos_6",
+    "titulo": "Velozes & Furiosos 6",
+    "capa": "https://image.tmdb.org/t/p/w342/h8SD0Kkqv3PUBneQX9tFsDrFu8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/wtaVD7UaEdSmLDqHamUPp3rpXhX.jpg",
+    "sinopse": "Desde que o golpe de Dom e Brian no Rio de Janeiro deixou o grupo com US$100 milhões, a equipe se espalhou pelo mundo. Um dia, Hobbs pede a Dom que reúna um grupo de elite em Londres e apreenda uma organização de mercenários nas ruas, cujo mentor é apoiado por Letty, a antiga namorada de Dom que ele acreditava estar morta. A recompensa? Absolvição a todos eles para poderem voltar para as suas casas e tornarem suas famílias completas novamente.",
+    "rating": 6.8,
+    "year": "2013",
+    "url": "https://ia800703.us.archive.org/9/items/paixaoflix-series-velozes-e-furiosos-6/Velozes.e.Furiosos.6.ia.mp4"
+  },
+  {
+    "id": "velozes_furiosos_7",
+    "titulo": "Velozes & Furiosos 7",
+    "capa": "https://image.tmdb.org/t/p/w342/spydMyyD81HjGJVwZvjajkrWW1h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/ehzI1mVcnHqB58NqPyQwpMqcVoz.jpg",
+    "sinopse": "Após os acontecimentos em Londres, Dom, Brian, Letty e o resto da equipe têm a chance de voltar para os Estados Unidos e recomeçar suas vidas. Mas a tranquilidade do grupo é destruída quando Deckard Shaw, um assassino profissional, quer vingança pelo acidente que deixou seu irmão em coma. Agora, a equipe tem de unir forças para deter um vilão novo e ainda mais perigoso. Dessa vez, não se trata apenas de uma questão de velocidade: a corrida é pela sobrevivência.",
+    "rating": 7.2,
+    "year": "2015",
+    "url": "https://ia800804.us.archive.org/32/items/paixaoflix-series-velozes-e-furiosos-7/Velozes.e.Furiosos.7.ia.mp4"
+  },
+  {
+    "id": "velozes_furiosos_8",
+    "titulo": "Velozes & Furiosos 8",
+    "capa": "https://image.tmdb.org/t/p/w342/1wcMoiMZ2VxrrWswuarI7g9m9nN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/3IJ8kG8i84PncXkSovu0PaZQfjM.jpg",
+    "sinopse": "Depois que Brian e Mia se aposentaram, e o resto da equipe foi exonerado, Dom e Letty estão em lua de mel e levam uma vida pacata e completamente normal. Mas a adrenalina do passado volta com tudo quando uma mulher misteriosa faz com que Dom retorne ao mundo do crime e da velocidade.",
+    "rating": 6.9,
+    "year": "2017",
+    "url": "https://ia600507.us.archive.org/8/items/paixaoflix-series-velozes-e-furiosos-8/Velozes.e.Furiosos.8.ia.mp4?cnt=0"
+  },
+  {
+    "id": "velozes_furiosos_9",
+    "titulo": "Velozes & Furiosos 9",
+    "capa": "https://image.tmdb.org/t/p/w342/6TuEPZ3ItlBO8WmH8BmY2aGLhes.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
+    "sinopse": "Dominic Toretto e sua família precisam enfrentar o seu irmão mais novo Jakob, um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher.",
+    "rating": 7.002,
+    "year": "2021",
+    "url": "https://dn720306.ca.archive.org/0/items/velozes-e-furiosos-9-2021-dublado/Velozes%20e%20Furiosos%209%202021%20Dublado.mp4"
   },
   {
     "id": "piratas_do_caribe_a_maldicao_do_perola_negra",
@@ -208,16 +288,6 @@
     "rating": 7,
     "year": "2010",
     "url": "https://ia800609.us.archive.org/30/items/assistir-megamente-2010-dublado-online-gratis-em-hd/Assistir%20Megamente%202010%20Dublado%20Online%20Gr%C3%A1tis%20em%20HD.mp4"
-  },
-  {
-    "id": "velozes_furiosos_9",
-    "titulo": "Velozes & Furiosos 9",
-    "capa": "https://image.tmdb.org/t/p/w342/6TuEPZ3ItlBO8WmH8BmY2aGLhes.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/original/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
-    "sinopse": "Dominic Toretto e sua família precisam enfrentar o seu irmão mais novo Jakob, um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher.",
-    "rating": 7.013,
-    "year": "2021",
-    "url": "https://dn720306.ca.archive.org/0/items/velozes-e-furiosos-9-2021-dublado/Velozes%20e%20Furiosos%209%202021%20Dublado.mp4"
   },
   {
   "id": "percy_jackson_e_o_ladrao_de_raios",
