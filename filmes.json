@@ -7,9 +7,10 @@
     "sinopse": "Um investigador da polícia se infiltra em uma turma de rachas suspeita de roubar caminhões, mas acaba apaixonando-se pela irmã do líder.",
     "rating": 7,
     "year": "2001",
+    "generos": [28, 80, 53],
     "url": "https://ia801502.us.archive.org/35/items/velozes-e-furiosos-1/Velozes%20e%20furiosos%201.ia.mp4?cnt=0"
   },
-   {
+  {
     "id": "velozes_furiosos",
     "titulo": "+ Velozes + Furiosos",
     "capa": "https://image.tmdb.org/t/p/w342/mx0CB8H78PQu0g9YUWG47hdi93S.jpg",
@@ -17,6 +18,7 @@
     "sinopse": "O ex-policial Brian comete uma grande traição, juntando-se a um amigo ex-presidiário no transporte de dinheiro sujo para uma importadora-exportadora muito suspeita.",
     "rating": 6.5,
     "year": "2003",
+    "generos": [28, 80, 53],
     "url": "https://ia600703.us.archive.org/35/items/paixaoflix-series-velozes-e-furiosos-2/Velozes.e.Furiosos.2.ia.mp4?cnt=0"
   },
   {
@@ -27,6 +29,7 @@
     "sinopse": "Sean Boswell é um piloto de rua que desafia seu rival e bate o carro no fim da corrida. Então, Sean decide se mudar para o Japão em companhia de seu pai para evitar a prisão nos Estados Unidos, já que os rachas não são nada populares com as autoridades. Em Tóquio, ele começa a aprender um excitante e perigoso estilo novo de competir nas ruas. Só que os riscos ficam ainda mais altos quando Sean decide competir com o campeão local e acaba se apaixonando pela namorada dele.",
     "rating": 6.541,
     "year": "2006",
+    "generos": [28, 80, 53],
     "url": "https://ia800701.us.archive.org/23/items/velozes-e-furiosos-3/Velozes%20e%20furiosos%203.ia.mp4?cnt=0"
   },
   {
@@ -37,6 +40,7 @@
     "sinopse": "Dominic Toretto descobre que sua amada Letty foi assassinada e resolve procurar pelo autor do crime. Enquanto isso, o agente Brian O'Conner está em busca de um traficante de drogas. Eles percebem que talvez procurem a mesma pessoa.",
     "rating": 6.7,
     "year": "2009",
+    "generos": [28, 80, 53],
     "url": "https://ia800509.us.archive.org/26/items/paixaoflix-series-velozes-e-furiosos-4/Velozes.e.Furiosos.4.ia.mp4"
   },
   {
@@ -44,9 +48,10 @@
     "titulo": "Velozes & Furiosos 5: Operação Rio",
     "capa": "https://image.tmdb.org/t/p/w342/5BKmQMUPOEtDFDCBW8jrUCI9ZbI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/lvSxooYCRuF3S2kHWXYTrcOtYco.jpg",
-    "sinopse": "Desde que o ex-policial Brian O'Conner e Mia Torretto libertaram Dom da prisão, eles viajam pelas fronteiras para fugir das autoridades. No Rio de Janeiro, eles fazem um último trabalho antes que possam ganhar sua liberdade definitiva. Montando sua equipe de elite de pilotos de carro, Brian e Dom sabem que têm de enfrentar o empresário corrupto que quer vê-los mortos, antes que o agente federal em sua trilha os encontre.",
+    "sinopse": "Desde que o ex-policial Brian O'Conner e Mia Torretto libertaram Dom da prisão, eles viajam pelas fronteiras para fugir das autoridades. No Rio de Janeiro, eles fazem um último trabalho antes que possam ganhar sua liberdade definitiva.",
     "rating": 7.2,
     "year": "2011",
+    "generos": [28, 80, 53],
     "url": "https://ia600906.us.archive.org/35/items/paixaoflix-series-velozes-e-furiosos-5-operacao-rio/Velozes.e.Furiosos.5.Operacao.Rio.ia.mp4"
   },
   {
@@ -54,9 +59,10 @@
     "titulo": "Velozes & Furiosos 6",
     "capa": "https://image.tmdb.org/t/p/w342/h8SD0Kkqv3PUBneQX9tFsDrFu8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/wtaVD7UaEdSmLDqHamUPp3rpXhX.jpg",
-    "sinopse": "Desde que o golpe de Dom e Brian no Rio de Janeiro deixou o grupo com US$100 milhões, a equipe se espalhou pelo mundo. Um dia, Hobbs pede a Dom que reúna um grupo de elite em Londres e apreenda uma organização de mercenários nas ruas, cujo mentor é apoiado por Letty, a antiga namorada de Dom que ele acreditava estar morta. A recompensa? Absolvição a todos eles para poderem voltar para as suas casas e tornarem suas famílias completas novamente.",
+    "sinopse": "Desde que o golpe de Dom e Brian no Rio de Janeiro deixou o grupo com US$100 milhões, a equipe se espalhou pelo mundo. Um dia, Hobbs pede a Dom que reúna um grupo de elite em Londres e apreenda uma organização de mercenários nas ruas.",
     "rating": 6.8,
     "year": "2013",
+    "generos": [28, 80, 53],
     "url": "https://ia800703.us.archive.org/9/items/paixaoflix-series-velozes-e-furiosos-6/Velozes.e.Furiosos.6.ia.mp4"
   },
   {
@@ -64,9 +70,10 @@
     "titulo": "Velozes & Furiosos 7",
     "capa": "https://image.tmdb.org/t/p/w342/spydMyyD81HjGJVwZvjajkrWW1h.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/ehzI1mVcnHqB58NqPyQwpMqcVoz.jpg",
-    "sinopse": "Após os acontecimentos em Londres, Dom, Brian, Letty e o resto da equipe têm a chance de voltar para os Estados Unidos e recomeçar suas vidas. Mas a tranquilidade do grupo é destruída quando Deckard Shaw, um assassino profissional, quer vingança pelo acidente que deixou seu irmão em coma. Agora, a equipe tem de unir forças para deter um vilão novo e ainda mais perigoso. Dessa vez, não se trata apenas de uma questão de velocidade: a corrida é pela sobrevivência.",
+    "sinopse": "Após os acontecimentos em Londres, Dom, Brian, Letty e o resto da equipe têm a chance de voltar para os Estados Unidos e recomeçar suas vidas. Mas a tranquilidade do grupo é destruída quando Deckard Shaw, um assassino profissional, quer vingança.",
     "rating": 7.2,
     "year": "2015",
+    "generos": [28, 80, 53],
     "url": "https://ia800804.us.archive.org/32/items/paixaoflix-series-velozes-e-furiosos-7/Velozes.e.Furiosos.7.ia.mp4"
   },
   {
@@ -77,8 +84,9 @@
     "sinopse": "Depois que Brian e Mia se aposentaram, e o resto da equipe foi exonerado, Dom e Letty estão em lua de mel e levam uma vida pacata e completamente normal. Mas a adrenalina do passado volta com tudo quando uma mulher misteriosa faz com que Dom retorne ao mundo do crime e da velocidade.",
     "rating": 6.9,
     "year": "2017",
-    "url": "https://ia600507.us.archive.org/8/items/paixaoflix-series-velozes-e-furiosos-8/Velozes.e.Furiosos.8.ia.mp4?cnt=0",
-    "destaque": true
+    "generos": [28, 80, 53],
+    "destaque": true,
+    "url": "https://ia600507.us.archive.org/8/items/paixaoflix-series-velozes-e-furiosos-8/Velozes.e.Furiosos.8.ia.mp4?cnt=0"
   },
   {
     "id": "velozes_furiosos_9",
@@ -88,6 +96,7 @@
     "sinopse": "Dominic Toretto e sua família precisam enfrentar o seu irmão mais novo Jakob, um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher.",
     "rating": 7.002,
     "year": "2021",
+    "generos": [28, 80, 53],
     "url": "https://dn720306.ca.archive.org/0/items/velozes-e-furiosos-9-2021-dublado/Velozes%20e%20Furiosos%209%202021%20Dublado.mp4"
   },
   {
@@ -98,6 +107,7 @@
     "sinopse": "Tony Stark é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter ego do Homem de Ferro.",
     "rating": 7.66,
     "year": "2008",
+    "generos": [28, 12, 878],
     "url": "https://dn711507.ca.archive.org/0/items/homem-de-ferro-iron-man-brazil-dvd-18-07-2008/Homem%20de%20Ferro%20%28IRON_MAN_BRAZIL%29%20DVD%20%2818-07-2008%29.mp4"
   },
   {
@@ -105,9 +115,10 @@
     "titulo": "Homem-Aranha: De Volta ao Lar",
     "capa": "https://image.tmdb.org/t/p/w342/1nkwRL17cAGO8A1yu3miRBdvOsl.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/tPpYGm2mVecue7Bk3gNVoSPA5qn.jpg",
-    "sinopse": "Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker voltar para casa e para a sua vida, já não mais tão normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida quando o terrível vilão Abutre surge amedrontando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava.",
+    "sinopse": "Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker voltar para casa e para a sua vida, já não mais tão normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida quando o terrível vilão Abutre surge amedrontando a cidade.",
     "rating": 7.3,
     "year": "2017",
+    "generos": [28, 12, 878],
     "url": "https://dn720405.ca.archive.org/0/items/homem-aranha-de-volta-ao-lar_202202/Homem-Aranha%20De%20Volta%20ao%20Lar.ia.mp4"
   },
   {
@@ -115,9 +126,10 @@
     "titulo": "Homem-Aranha: Longe de Casa",
     "capa": "https://image.tmdb.org/t/p/w342/8V0hpq8BUzauB06eEfr7AmyTzbK.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/34jW8LvjRplM8Pv06cBFDpLlenR.jpg",
-    "sinopse": "Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades-símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio.",
+    "sinopse": "Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades-símbolo do continente.",
     "rating": 7.396,
     "year": "2019",
+    "generos": [28, 12, 878],
     "url": "https://ia801503.us.archive.org/22/items/homem-aranha-longe-de-casa_202202/Homem-Aranha%20Longe%20de%20Casa.ia.mp4?cnt=0"
   },
   {
@@ -125,9 +137,10 @@
     "titulo": "Homem-Aranha: Sem Volta Para Casa",
     "capa": "https://image.tmdb.org/t/p/w342/xaKydnMw6wR1MBAjS5seGPVusbs.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
-    "sinopse": "Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...",
+    "sinopse": "Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos.",
     "rating": 7.934,
     "year": "2021",
+    "generos": [28, 12, 878],
     "url": "https://dn720401.ca.archive.org/0/items/homem-aranha-sem-volta-para-casa-1080p/Homem%20Aranha%20%28Sem%20Volta%20Para%20Casa%29%20%281080p%29.mp4"
   },
   {
@@ -135,9 +148,10 @@
     "titulo": "John Wick 3: Parabellum",
     "capa": "https://image.tmdb.org/t/p/w342/bE6XutmB6tcvzTHBx4JGJLlzouM.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg",
-    "sinopse": "Após assassinar o chefe da máfia Santino D'Antonio no Hotel Continental, John Wick passa a ser perseguido pelos membros da Alta Cúpula sob a recompensa de U$14 milhões. Agora, ele precisa unir forças com antigos parceiros que o ajudaram no passado enquanto luta por sua sobrevivência.",
+    "sinopse": "Após assassinar o chefe da máfia Santino D'Antonio no Hotel Continental, John Wick passa a ser perseguido pelos membros da Alta Cúpula sob a recompensa de U$14 milhões. Agora, ele precisa unir forças com antigos parceiros enquanto luta por sua sobrevivência.",
     "rating": 7.437,
     "year": "2019",
+    "generos": [28, 53, 80],
     "url": "https://ia600101.us.archive.org/35/items/john.-wick.-3.-parabellum.-2019.ia_202301.mp4/John.Wick.3.Parabellum.2019.ia.mp4?cnt=0"
   },
   {
@@ -145,9 +159,10 @@
     "titulo": "MIB - Homens de Preto",
     "capa": "https://image.tmdb.org/t/p/w342/bUA0TD2COayMP6ur9Qbewdbbm2e.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/o9puyKpayQoX8ikIaYtf2PfKv3.jpg",
-    "sinopse": "Kay e Jay, os Homens de Preto, são o maior segredo já mantido no universo. Eles são agentes de uma agência não-oficial do governo e responsáveis por monitorar todos os encontros com alienígenas na Terra. Ao investigar uma série de atividades extraterrestres, descobrem um terrorista intergaláctico cuja missão é assassinar dois embaixadores de galáxias opostas.",
+    "sinopse": "Kay e Jay, os Homens de Preto, são o maior segredo já mantido no universo. Eles são agentes de uma agência não-oficial do governo responsáveis por monitorar todos os encontros com alienígenas na Terra.",
     "rating": 7.221,
     "year": "1997",
+    "generos": [28, 35, 878],
     "url": "https://ia601802.us.archive.org/16/items/homens-de-preto-1/Homens%20de%20Preto%201.mp4"
   },
   {
@@ -155,9 +170,10 @@
     "titulo": "Interestelar",
     "capa": "https://image.tmdb.org/t/p/w342/6ricSDD83BClJsFdGB6x7cM0MFQ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
-    "sinopse": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.",
+    "sinopse": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie.",
     "rating": 8.475,
     "year": "2014",
+    "generos": [18, 878, 12],
     "url": "https://ia800704.us.archive.org/26/items/interestelar-2014-brrip-imax-blu-ray-1080p-5.1-ch-dublado-andre-tpf/Interestelar%20%282014%29%20BRrip%20IMAX%20Blu-Ray%201080p%205.1%20Ch%20Dublado%20-%20AndreTPF.mp4"
   },
   {
@@ -165,9 +181,10 @@
     "titulo": "Como Treinar o Seu Dragão",
     "capa": "https://image.tmdb.org/t/p/w342/vdvEClt3J8sFWxyMo0Jm7JpouEo.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/8J6UlIFcU7eZfq9iCLbgc8Auklg.jpg",
-    "sinopse": "Na montanhosa Ilha de Berk, vikings e dragões são inimigos implacáveis há gerações, mas Soluço é diferente. Filho do Chefe Stoico, o Imenso, o criativo e subestimado Soluço desafia séculos de tradição ao fazer amizade com Banguela, um temido dragão Fúria da Noite. Essa relação improvável revela a verdadeira natureza dos dragões, abalando as bases da sociedade viking.",
+    "sinopse": "Na montanhosa Ilha de Berk, vikings e dragões são inimigos implacáveis há gerações, mas Soluço é diferente. Filho do Chefe Stoico, o Imenso, o criativo e subestimado Soluço desafia séculos de tradição ao fazer amizade com Banguela, um temido dragão Fúria da Noite.",
     "rating": 7.932,
     "year": "2025",
+    "generos": [16, 10751, 12],
     "url": "https://ia600901.us.archive.org/30/items/dragao/como_treinar_o_seu_dragao_1.mp4"
   },
   {
@@ -175,9 +192,10 @@
     "titulo": "Como Treinar o seu Dragão 2",
     "capa": "https://image.tmdb.org/t/p/w342/bj6DeGQeaJa3ert4bjCBqLSZdHz.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/8AAuJtCzaibYkbE0QVHc8EBsELB.jpg",
-    "sinopse": "Cinco anos após convencer os habitantes de seu vilarejo que os dragões não devem ser combatidos, Soluço convive com seu dragão Fúria da Noite, e estes animais integraram pacificamente a rotina dos moradores da ilha de Berk. Entre viagens pelos céus e corridas de dragões, Soluço descobre uma caverna secreta, onde centenas de novos dragões vivem. O local é protegido por Valka, mãe de Soluço, que foi afastada do filho quando ele ainda era um bebê. Juntos, eles precisarão proteger o mundo que conhecem do perigoso Drago Bludvist, que deseja controlar todos os dragões existentes.",
+    "sinopse": "Cinco anos após convencer os habitantes de seu vilarejo que os dragões não devem ser combatidos, Soluço convive com seu dragão Fúria da Noite, e estes animais integraram pacificamente a rotina dos moradores da ilha de Berk.",
     "rating": 7.681,
     "year": "2014",
+    "generos": [16, 10751, 12],
     "url": "https://ia600901.us.archive.org/30/items/dragao/Como.Treinar.o.Seu.Drag%C3%A3o.2.2014.720p.WEB-DL.Dual-WOLVERDONFILMES.COM.mp4?cnt=0"
   },
   {
@@ -185,9 +203,10 @@
     "titulo": "Como Treinar o Seu Dragão 3",
     "capa": "https://image.tmdb.org/t/p/w342/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
-    "sinopse": "Decidido a fazer de Berk um verdadeiro libelo ao ideal da convivência pacífica entre homens e dragões, Soluço e seus amigos seguem atrás de caçadores, para não só libertar suas presas mas também impedir a matança desenfreada dos animais. O esforço do grupo desperta a atenção de Grimmel ao descobrir que entre eles está Banguela, um legítimo Fúria da Noite. O vilão então desenvolve um plano para capturá-lo a todo custo, usando como arma uma fêmea capturada, da mesma espécie.",
+    "sinopse": "Decidido a fazer de Berk um verdadeiro libelo ao ideal da convivência pacífica entre homens e dragões, Soluço e seus amigos seguem atrás de caçadores para libertar suas presas e impedir a matança desenfreada dos animais.",
     "rating": 7.751,
     "year": "2019",
+    "generos": [16, 10751, 12],
     "url": "https://ia800901.us.archive.org/30/items/dragao/Como.Treinar.o.Seu.Drag%C3%A3o.3.2019.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.TV.mp4"
   },
   {
@@ -195,9 +214,10 @@
     "titulo": "Piratas do Caribe: A Maldição do Pérola Negra",
     "capa": "https://image.tmdb.org/t/p/w342/9Xcg7Ar4ketv4rl8yeK32yp9zQA.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg",
-    "sinopse": "O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola.",
+    "sinopse": "O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner. Eles desbravam os mares em direção à misteriosa Ilha da Morte tentando impedir os piratas-esqueleto.",
     "rating": 7.8,
     "year": "2003",
+    "generos": [28, 12, 14],
     "url": "https://ia801708.us.archive.org/24/items/piratas-do-caribe-a-maldicao-do-perola-negra-paixaoflix/Piratas%20do%20Caribe%20-%20A%20Maldi%C3%A7%C3%A3o%20do%20P%C3%A9rola%20Negra_ptbr.ia.mp4?cnt=0"
   },
   {
@@ -205,9 +225,10 @@
     "titulo": "Piratas do Caribe: No Fim do Mundo",
     "capa": "https://image.tmdb.org/t/p/w342/j15lZasREutscon6e61LSSNJoN7.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
-    "sinopse": "Will Turner e Elizabeth Swann unem forças com o Capitão Barbossa para libertarem Jack Sparrow da prisão de Davy Jones. Enquanto isso, a tripulação do barco fantasma O Holandês Voador causa estragos nos Sete Mares. Os amigos devem navegar através de águas perigosas para enfrentarem o pirata chinês São Feng e, finalmente, eles devem escolher em que lado ficar na batalha, pois a vida do pirata está em jogo.",
+    "sinopse": "Will Turner e Elizabeth Swann unem forças com o Capitão Barbossa para libertarem Jack Sparrow da prisão de Davy Jones. Enquanto isso, a tripulação do barco fantasma O Holandês Voador causa estragos nos Sete Mares.",
     "rating": 7.266,
     "year": "2007",
+    "generos": [28, 12, 14],
     "url": "https://ia801709.us.archive.org/20/items/piratasdocaribenofimdomundo-paixaoflix/Piratas%20do%20Caribe%20-%20No%20Fim%20do%20Mundo_ready.mp4?cnt=0"
   },
   {
@@ -215,9 +236,10 @@
     "titulo": "Piratas do Caribe: Navegando em Águas Misteriosas",
     "capa": "https://image.tmdb.org/t/p/w342/blt7kBXEk1HgJjCTusaUMQ7BCTY.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg",
-    "sinopse": "O passado do capitão Jack Sparrow volta a alcançá-lo quando ele cruza com Angelica, uma bonita pirata que Jack, um dia, amou e depois abandonou. Ela, então, o força a acompanhá-la ao navio Vingança da Rainha Ana, do famoso Barba Negra. Junto com uma tripulação de zumbis, o trio parte em busca da lendária Fonte da Juventude. Mas o rival de Jack, Barbossa, também cobiça a fonte, assim como um navio espanhol.",
+    "sinopse": "O passado do capitão Jack Sparrow volta a alcançá-lo quando ele cruza com Angelica, uma bonita pirata que Jack amou e depois abandonou. Ela o força a acompanhá-la ao navio Vingança da Rainha Ana, do famoso Barba Negra.",
     "rating": 6.565,
     "year": "2011",
+    "generos": [28, 12, 14],
     "url": "https://ia601708.us.archive.org/14/items/piratasdocaribenavegandoemaguasmisteriosas-paixaoflix/Piratas%20do%20Caribe%20-%20Navegando%20em%20%C3%81guas%20Misteriosas_ready.mp4?cnt=0"
   },
   {
@@ -225,9 +247,10 @@
     "titulo": "Piratas do Caribe: O Baú da Morte",
     "capa": "https://image.tmdb.org/t/p/w342/yvD1G41HwHgj8afCjmfGbyRmBBR.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
-    "sinopse": "Will e Elizabeth estão prestes a se casar quando o lendário pirata Davy Jones, comandante do invencível navio assombrado O Holandês Voador, aparece para cobrar uma dívida do capitão Jack Sparrow, amigo do casal. A única chance de Sparrow se livrar de uma maldição de Jones é encontrando o baú da morte.",
+    "sinopse": "Will e Elizabeth estão prestes a se casar quando o lendário pirata Davy Jones aparece para cobrar uma dívida do capitão Jack Sparrow. A única chance de Sparrow se livrar é encontrando o baú da morte.",
     "rating": 7.4,
     "year": "2006",
+    "generos": [28, 12, 14],
     "url": "https://ia601706.us.archive.org/28/items/piratas-do-caribe-o-bau-da-morte-paixaoflix/Piratas%20do%20Caribe%20-%20O%20Ba%C3%BA%20da%20Morte_ptbr.ia.mp4?cnt=0"
   },
   {
@@ -235,9 +258,10 @@
     "titulo": "A Era do Gelo 4",
     "capa": "https://image.tmdb.org/t/p/w342/mptRqTy5Tw8ZRxuickDrDHEPlFa.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/liiPM38H376CDqxJ7VeQjan5YUy.jpg",
-    "sinopse": "Sempre em busca de sua cobiçada noz, o esquilo Scrat provoca, sem querer, a separação dos continentes. A situação causa mudanças no terreno de vários locais, entre eles onde os amigos Manny, Diego e Sid estão alojados. Um terremoto faz com que o trio fique preso em um iceberg.",
+    "sinopse": "Sempre em busca de sua cobiçada noz, o esquilo Scrat provoca, sem querer, a separação dos continentes. Um terremoto faz com que Manny, Diego e Sid fiquem presos em um iceberg.",
     "rating": 6.4,
     "year": "2012",
+    "generos": [16, 10751, 12],
     "url": "https://ia801702.us.archive.org/33/items/aeradogelo42012-kids-paixaoflix/A%20Era%20do%20Gelo%204%20-%202012_ready.mp4"
   },
   {
@@ -245,9 +269,10 @@
     "titulo": "A Era do Gelo 3",
     "capa": "https://image.tmdb.org/t/p/w342/kaXQMlurbJ6n5u33TRePTXWxPHY.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/mWFD2rJG8MQMrw1QHe1r4crqoGp.jpg",
-    "sinopse": "Depois que Sid rouba alguns ovos de dinossauro, Manny, Diego e o resto de seus amigos pré-históricos entram em um mundo misterioso e subterrâneo para resgatar Sid. Durante o curso da sua missão, o grupo encontra muitas criaturas grandes e pequenas, incluindo os carnívoros famintos e implacáveis, caçando o dinossauro chamado Buck.",
+    "sinopse": "Depois que Sid rouba alguns ovos de dinossauro, Manny, Diego e o resto de seus amigos pré-históricos entram em um mundo misterioso e subterrâneo para resgatar Sid.",
     "rating": 6.763,
     "year": "2009",
+    "generos": [16, 10751, 12],
     "url": "https://ia800601.us.archive.org/2/items/aeradogelo32009-kids-paixaoflix/A%20Era%20do%20Gelo%203%20-%202009_ready.mp4?cnt=0"
   },
   {
@@ -255,15 +280,17 @@
     "titulo": "Motoqueiro Fantasma",
     "capa": "https://image.tmdb.org/t/p/w342/vVGVlwRrvVgLPE98rwo8jo3QC2b.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/zbV32WKHFuEYLXLTpr0rmVjQn11.jpg",
-    "sinopse": "Johnny Blaze trabalha como dublê e piloto de motocicleta. Há muito tempo, ele fez um pacto com Mefisto para proteger as duas pessoas que mais amava: seu pai, Barton, e sua namorada de adolescência, Roxanne Simpson. Em troca, Johnny se transforma no Motoqueiro Fantasma, o justiceiro de alguns demônios bastante cruéis. Forçado a obedecer Mefisto, Johnny decide enfrentá-lo de forma a usar sua maldição para proteger pessoas inocentes.",
+    "sinopse": "Johnny Blaze trabalha como dublê e piloto de motocicleta. Há muito tempo, ele fez um pacto com Mefisto para proteger as duas pessoas que mais amava. Em troca, Johnny se transforma no Motoqueiro Fantasma.",
     "rating": 5.592,
     "year": "2007",
+    "generos": [28, 14, 878],
     "url": "https://dn721605.ca.archive.org/0/items/motoqueiro-fantasma-2007/Motoqueiro%20Fantasma%20%282007%29.mp4"
   },
   {
     "id": "jack1",
     "titulo": "Bater ou Correr em Londres",
     "capa": "https://upload.wikimedia.org/wikipedia/pt/b/bf/Shanghai_knights.jpg",
+    "generos": [28, 35, 12],
     "url": "https://ia801503.us.archive.org/9/items/paixaoflix_bater_ou_correr_em_londres/Bater%20ou%20Correr%20em%20Londres_Paix%C3%A3oFlix.ia.mp4?cnt=0"
   },
   {
@@ -271,93 +298,108 @@
     "titulo": "O Rei Leão 3: Hakuna Matata",
     "capa": "https://image.tmdb.org/t/p/w342/vtX3wirmv2VkQi1u4C9cSdHTXQn.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/3eQnD9CIUerbXbgtFE1zJNvEVVo.jpg",
-    "sinopse": "Timão e Pumba começam a assistir o primeiro filme do Rei Leão, e Timão fica insistindo para que Pumba avance até a parte em que eles aparecem, porque eles não estão no início do filme. A partir daí, Pumba resolve contar um pouco da história dos dois, que começa antes da jornada de Simba. Contam sobre a mãe de Timão e sobre o Tio Max, descobrem porque Timão deixou a colônia, e onde ele aprendeu o Hakuna Matata. Também relatam como os dois se conheceram, e os perigos que enfrentaram enquanto procuravam pelo lar dos sonhos.",
+    "sinopse": "Timão e Pumba começam a assistir o primeiro filme do Rei Leão. A partir daí, Pumba resolve contar um pouco da história dos dois, que começa antes da jornada de Simba.",
     "rating": 6.579,
     "year": "2004",
+    "generos": [16, 10751, 35],
     "url": "https://ia600806.us.archive.org/11/items/o-rei-leao-3-hakuna-matata-2004-infantil-paixaoflix/O%20Rei%20Le%C3%A3o%203%20-%20Hakuna%20Matata%202004.mp4"
   },
   {
     "id": "Aprocuradaf",
     "titulo": "À Procura Da Felicidade",
     "capa": "https://image.tmdb.org/t/p/w342/vHGC2sSh7pBWXY0qzMdPD7fcjzS.jpg",
+    "generos": [18, 36],
     "url": "https://ia600908.us.archive.org/10/items/a-procura-da-felicidade-paixaoflix/%C3%80%20Procura%20Da%20Felicidade.ia.mp4"
   },
   {
     "id": "jwr",
     "titulo": "Jurassic World - Recomeço",
     "capa": "https://image.tmdb.org/t/p/original/g81Wxr9rskMsmKx3RoPZP6PnlkX.jpg",
+    "generos": [28, 12, 878],
     "url": "https://ia800800.us.archive.org/5/items/jurassicworldrecomeco-scifi-paixaoflix/Jurassic%20World%20-%20Recome%C3%A7o_ready.mp4"
   },
   {
     "id": "moana2",
     "titulo": "Moana 2",
     "capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGpgIBQVSmd4uVvQJzrkAUafKsltYid5KHPDVJPLdhMA22oGKG_w2R9WSGeBLtPOSEVr_fbTs428WwZkcwvarRE4DszkJWFfUvdDVH85Y8uFfei6XUEoMLH2eluwNA8_-ywdtHXyAZXpn8rHRliKP-WKOiK6-XRsmSn-xiWiDgAp72xnTRKN4UKMor-4Vu/s800/moana2_09.jpg",
+    "generos": [16, 10751, 12],
     "url": "https://ia800307.us.archive.org/34/items/moana2-paixaoflix/Moana%202_ready.mp4?cnt=0"
   },
   {
     "id": "planetadosmac",
     "titulo": "Planeta Dos Macacos - A Origem",
     "capa": "https://image.tmdb.org/t/p/w342/qxe4ONZAgtC0mfsIuOyqVU9JREj.jpg",
+    "generos": [28, 18, 878],
     "url": "https://ia801307.us.archive.org/14/items/planetadosmacacosaorigem-paixaoflix/Planeta%20Dos%20Macacos%20-%20A%20Origem_ready.mp4"
   },
   {
     "id": "oauto2",
     "titulo": "O Auto da Compadecida 2",
     "capa": "https://tse3.mm.bing.net/th/id/OIP.3-nru6o-zhhDWIcbWeWmgQHaJQ?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "generos": [35, 18],
     "url": "https://ia801704.us.archive.org/31/items/o-auto-da-compadecida-2-paixaoflix/O%20Auto%20da%20Compadecida%202.ia.mp4?cnt=0"
   },
   {
     "id": "beemv",
     "titulo": "Bee Filme",
     "capa": "https://assets.mycast.io/posters/bee-movie-2-plan-bee-fan-casting-poster-304918-large.jpg",
+    "generos": [16, 35, 10751],
     "url": "https://ia801703.us.archive.org/27/items/bee-movie-a-historia-de-uma-abelha-infantil-paixaoflix/Bee%20Movie.A%20Hist%C3%B3ria%20de%20uma%20Abelha.ia.mp4?cnt=0"
   },
   {
     "id": "ptnegra1",
     "titulo": "Pantera Negra - Wakanda para Sempre",
     "capa": "https://vertentesdocinema.com/wp-content/uploads/2022/11/wakanda-forever-scaled.jpeg",
+    "generos": [28, 12, 878],
     "url": "https://ia600203.us.archive.org/14/items/pantera-negra-wakanda-para-sempre-paixaoflix/Pantera%20Negra%20-%20Wakanda%20para%20Sempre_ptbr.ia.mp4?cnt=0"
   },
   {
     "id": "nefarious",
     "titulo": "Nefarious",
     "capa": "https://image.tmdb.org/t/p/w1280/7VmkvDjLFq6U2x254n1jISHG2lR.jpg",
+    "generos": [27, 53, 18],
     "url": "https://ia801808.us.archive.org/20/items/nefarious-paixaoflix/CONV_LA-Nefarious.ia.mp4"
   },
   {
     "id": "espantatub",
     "titulo": "O Espanta Tubarões",
     "capa": "https://cinema10.com.br/upload/filmes/filmes_1788_espantatubaroes.jpg",
+    "generos": [16, 35, 10751],
     "url": "https://ia800102.us.archive.org/22/items/o-espanta-tubaroes-paixaoflix/CONV_O%20Espanta%20Tubar%C3%B5es.ia.mp4?cnt=0"
   },
   {
     "id": "bobemb",
     "titulo": "Bob Esponja: Em Busca da Calça Quadrada",
     "capa": "https://br.web.img2.acsta.net/img/b9/bf/b9bf0c8b296b958e9daba13840d1ae65.jpg",
+    "generos": [16, 35, 10751],
     "url": "https://ia801806.us.archive.org/14/items/bob-esponja-em-busca-da-calca-quadrada-paixaoflix/CONV_Bob%20Esponja%20Em%20Busca%20da%20Cal%C3%A7a%20Quadrada.ia.mp4?cnt=0"
   },
   {
     "id": "obomdinossa",
     "titulo": "O Bom Dinossauro",
     "capa": "https://2.bp.blogspot.com/-uxrHGiMgfek/Vpz5txNbhZI/AAAAAAAA6Fo/nQC2S2orYtM/s1600/BOM%2BDINOSSAURO%2BLIVRO%2BILUSTRADO%2BABR%2B2016.jpg",
+    "generos": [16, 10751, 12],
     "url": "https://ia600903.us.archive.org/32/items/PaixaoFlix-O-Bom-Dinossauro-2016/O%20Bom%20Dinossauro.mp4?cnt=0"
   },
   {
     "id": "nfsp1",
     "titulo": "Need For Speed",
     "capa": "https://m.media-amazon.com/images/I/91rJ1Vt6N8L._SY606_.jpg",
+    "generos": [28, 80, 53],
     "url": "https://dn721907.ca.archive.org/0/items/need-for-speed-2014-brrip-720p-dublado-andre-tpf/Need%20For%20Speed%20%282014%29%20BRrip%20720p%20Dublado%20-%20AndreTPF.mp4"
   },
   {
     "id": "karatekid",
     "titulo": "Karatê Kid",
     "capa": "https://image.tmdb.org/t/p/original/dy4nbPi4JgiCwNXnbfQWC92K5vt.jpg",
+    "generos": [28, 18, 10751],
     "url": "https://ia800600.us.archive.org/2/items/karate-kid-2010_202407/Karate%20Kid%20%282010%29%20DUAL%20AUDIO%20720p%20-%20Douglasvip.mp4"
   },
   {
     "id": "gatodebotas2",
     "titulo": "Gato de botas 2",
     "capa": "https://www.atoupeira.com.br/wp-content/uploads/2022/07/gato-de-botas-2-o-ultimo-pedido-poster-nacional-1907.jpg",
+    "generos": [16, 35, 12],
     "url": "https://ia803208.us.archive.org/24/items/gtdbts-2-oultmpdo_202311/GTDBTS2OULTMPDO.ia.mp4?cnt=0"
   },
   {
@@ -365,9 +407,10 @@
     "titulo": "Batman vs Superman: A Origem da Justiça",
     "capa": "https://image.tmdb.org/t/p/w342/vh6pjeGH0GQupLepPCZn5PylcRg.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
-    "sinopse": "Temendo que as ações de um super-herói divino não tenham sido controladas, o formidável e vigoroso vigilante de Gotham City enfrenta o salvador mais reverenciado e moderno de Metrópolis, enquanto o mundo luta com o tipo de herói que realmente precisa. E com Batman e Superman em guerra um contra o outro, uma nova ameaça rapidamente surge, colocando a humanidade em maior perigo do que nunca antes.",
+    "sinopse": "Temendo que as ações de um super-herói divino não tenham sido controladas, o formidável vigilante de Gotham City enfrenta o salvador mais reverenciado de Metrópolis. Com Batman e Superman em guerra, uma nova ameaça surge, colocando a humanidade em maior perigo do que nunca.",
     "rating": 5.992,
     "year": "2016",
+    "generos": [28, 12, 878],
     "url": "https://ia601606.us.archive.org/27/items/btvss_202603/btvss.mp4?cnt=0"
   },
   {
@@ -375,9 +418,10 @@
     "titulo": "Os Vingadores: The Avengers",
     "capa": "https://image.tmdb.org/t/p/w342/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
-    "sinopse": "Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.",
+    "sinopse": "Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo da S.H.I.E.L.D. Nick Fury logo reúne os únicos super-heróis capazes de defender a Terra: Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro.",
     "rating": 7.987,
     "year": "2012",
+    "generos": [28, 12, 878],
     "url": "https://ia600601.us.archive.org/24/items/os-vingadores-the-avengers/Os%20Vingadores%20The%20Avengers.mp4?cnt=0"
   },
   {
@@ -385,310 +429,340 @@
     "titulo": "Megamente",
     "capa": "https://image.tmdb.org/t/p/w342/iNGifck9VGGVIlpdK3XsfD6Rptk.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
-    "sinopse": "Tudo o que vilão Megamente mais queria era eliminar seu adversário Metro Man e assim dominar a cidade de Metro City. Só que para isso era necessário um plano ainda mais diabólico do que todos já tentados anteriormente. Um dia, com a ajuda de Criado e após sequestrar a repórter Rosane Rocha, o malvado consegue o inimaginável, para ele e para todos: dar um sumiço no herói. A única coisa que ele não contava era que sua vida se tornaria tão chata a ponto de ele inventar um herói para combater.",
+    "sinopse": "Tudo o que o vilão Megamente mais queria era eliminar seu adversário Metro Man e assim dominar a cidade de Metro City. Após conseguir o inimaginável, sua vida se torna tão chata que ele inventa um novo herói para combater.",
     "rating": 7,
     "year": "2010",
+    "generos": [16, 35, 12],
     "url": "https://ia800609.us.archive.org/30/items/assistir-megamente-2010-dublado-online-gratis-em-hd/Assistir%20Megamente%202010%20Dublado%20Online%20Gr%C3%A1tis%20em%20HD.mp4"
   },
   {
-  "id": "percy_jackson_e_o_ladrao_de_raios",
-  "titulo": "Percy Jackson e o Ladrão de Raios",
-  "capa": "https://image.tmdb.org/t/p/w342/nuQFRVgKAXZNmjJhNuPO0dXcZqn.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/ugiV9SpJburMOPeIyjBJyAnO1So.jpg",
-  "sinopse": "O adolescente Percy Jackson descobre que os deuses gregos e as criaturas mitológicas são reais. Ele é filho de uma divindade e logo entra para um acampamento de treinamento para semideuses. Enquanto tenta se adaptar a seus novos poderes, ele descobre que o Raio-Mestre do poderoso Zeus foi roubado e ele é o principal suspeito. Assim, ele tenta solucionar o mistério junto com seus novos amigos, Grover e Annabeth.",
-  "rating": 6.211,
-  "year": "2010",
-  "url": "https://ia801707.us.archive.org/19/items/percy-jackson-e-o-ladrao-de-raios-paixaoflix/CONV_Percy%20Jackson%20e%20o%20Ladr%C3%A3o%20de%20Raios.ia.mp4?cnt=0"
-},
+    "id": "percy_jackson_e_o_ladrao_de_raios",
+    "titulo": "Percy Jackson e o Ladrão de Raios",
+    "capa": "https://image.tmdb.org/t/p/w342/nuQFRVgKAXZNmjJhNuPO0dXcZqn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/ugiV9SpJburMOPeIyjBJyAnO1So.jpg",
+    "sinopse": "O adolescente Percy Jackson descobre que os deuses gregos e as criaturas mitológicas são reais. Ele é filho de uma divindade e logo entra para um acampamento de treinamento para semideuses. Enquanto tenta se adaptar a seus novos poderes, ele descobre que o Raio-Mestre do poderoso Zeus foi roubado.",
+    "rating": 6.211,
+    "year": "2010",
+    "generos": [28, 12, 14],
+    "url": "https://ia801707.us.archive.org/19/items/percy-jackson-e-o-ladrao-de-raios-paixaoflix/CONV_Percy%20Jackson%20e%20o%20Ladr%C3%A3o%20de%20Raios.ia.mp4?cnt=0"
+  },
   {
-  "id": "um_homem_sem_passado",
-  "titulo": "Um Homem sem Passado",
-  "capa": "https://image.tmdb.org/t/p/w342/1lrPXPE6MFmjj2Anfv9aIDz9FnA.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/8or4S9BPhkeYK0vlKsPFee4JVWI.jpg",
-  "sinopse": "Ao acordar em uma cidade estranha, um homem sem memória (Adam Woodward) busca a verdade sobre seu passado, apenas para ser levado diretamente a um confronto letal com um poderoso inimigo (o vencedor do Oscar® Jon Voight) que selará seu destino e revelará sua verdadeira identidade.",
-  "rating": 6.508,
-  "year": "2025",
-  "url": "https://ia601704.us.archive.org/13/items/homem-sem-passado-paixaoflix/Homem%20Sem%20Passado.ia.mp4"
-},
+    "id": "um_homem_sem_passado",
+    "titulo": "Um Homem sem Passado",
+    "capa": "https://image.tmdb.org/t/p/w342/1lrPXPE6MFmjj2Anfv9aIDz9FnA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/8or4S9BPhkeYK0vlKsPFee4JVWI.jpg",
+    "sinopse": "Ao acordar em uma cidade estranha, um homem sem memória busca a verdade sobre seu passado, apenas para ser levado diretamente a um confronto letal com um poderoso inimigo que selará seu destino e revelará sua verdadeira identidade.",
+    "rating": 6.508,
+    "year": "2025",
+    "generos": [28, 53, 9648],
+    "url": "https://ia601704.us.archive.org/13/items/homem-sem-passado-paixaoflix/Homem%20Sem%20Passado.ia.mp4"
+  },
   {
-  "id": "pets_a_vida_secreta_dos_bichos_2",
-  "titulo": "Pets: A Vida Secreta dos Bichos 2",
-  "capa": "https://image.tmdb.org/t/p/w342/lLfEOjuzNK7c8c0PpQL3UDZRde0.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/zDIievPXqjfjLogXFqnnopU0OkK.jpg",
-  "sinopse": "Max se vê enganado por Katie no primeiro trailer da animação e acaba dentro de uma clínica veterinária onde os pets não parecem nada normais. Nesta sequência, o protagonista ainda terá que se acostumar com um recém-chegado à família.",
-  "rating": 6.949,
-  "year": "2019",
-  "url": "https://ia800903.us.archive.org/15/items/pets-a-vida-secreta-dos-bichos-2-infantil-paixaoflix/Pets%20-%20A%20Vida%20Secreta%20dos%20Bichos%202.ia.mp4?cnt=0"
-},
+    "id": "pets_a_vida_secreta_dos_bichos_2",
+    "titulo": "Pets: A Vida Secreta dos Bichos 2",
+    "capa": "https://image.tmdb.org/t/p/w342/lLfEOjuzNK7c8c0PpQL3UDZRde0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/zDIievPXqjfjLogXFqnnopU0OkK.jpg",
+    "sinopse": "Max se vê enganado por Katie e acaba dentro de uma clínica veterinária onde os pets não parecem nada normais. Nesta sequência, o protagonista ainda terá que se acostumar com um recém-chegado à família.",
+    "rating": 6.949,
+    "year": "2019",
+    "generos": [16, 35, 10751],
+    "url": "https://ia800903.us.archive.org/15/items/pets-a-vida-secreta-dos-bichos-2-infantil-paixaoflix/Pets%20-%20A%20Vida%20Secreta%20dos%20Bichos%202.ia.mp4?cnt=0"
+  },
   {
-  "id": "meu_malvado_favorito_3",
-  "titulo": "Meu Malvado Favorito 3",
-  "capa": "https://image.tmdb.org/t/p/w342/6z0KlRIrXfkgNz3IJOCAQxdVXAg.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/ftRkFtAGuHngHnLiOxktq0aCVMF.jpg",
-  "sinopse": "O ex-ator mirim e astro de TV, Balthazar Bratt, foi um típico malvado bem-sucedido nos anos 80 e agora está de volta à ativa. Ele vai aterrorizar a vida de Gru, Agnes, Margo, Edith, Dr. Nefario e os atrapalhados Minions. Em meio a tudo isso, Gru também vai encontrar o seu irmão gêmeo, Drew.",
-  "rating": 6.464,
-  "year": "2017",
-  "url": "https://ia801408.us.archive.org/8/items/meu-malvado-favorito-3-infantil-paixaoflix/Meu%20Malvado%20Favorito%203.ia.mp4"
-},
+    "id": "meu_malvado_favorito_3",
+    "titulo": "Meu Malvado Favorito 3",
+    "capa": "https://image.tmdb.org/t/p/w342/6z0KlRIrXfkgNz3IJOCAQxdVXAg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/ftRkFtAGuHngHnLiOxktq0aCVMF.jpg",
+    "sinopse": "O ex-ator mirim e astro de TV Balthazar Bratt foi um típico malvado bem-sucedido nos anos 80 e agora está de volta à ativa. Ele vai aterrorizar a vida de Gru e os Minions. Em meio a tudo isso, Gru também vai encontrar o seu irmão gêmeo, Drew.",
+    "rating": 6.464,
+    "year": "2017",
+    "generos": [16, 35, 10751],
+    "url": "https://ia801408.us.archive.org/8/items/meu-malvado-favorito-3-infantil-paixaoflix/Meu%20Malvado%20Favorito%203.ia.mp4"
+  },
   {
-  "id": "harry_potter_e_a_ordem_da_fenix",
-  "titulo": "Harry Potter e a Ordem da Fênix",
-  "capa": "https://image.tmdb.org/t/p/w342/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg",
-  "sinopse": "Lord Voldemort está de volta, mas o Ministério da Magia está fazendo tudo a seu alcance para impedir que a comunidade mundial de bruxos descubra isso – incluindo indicar a oficial do Ministério, Dolores Umbridge, como a nova professora de Defesa Contra as Artes das Trevas de Hogwarts. Quando Umbridge se recusa a ensinar a prática de mágica defensiva, Rony e Hermione convencem Harry a secretamente treinar um grupo de estudantes para a guerra de magia que está prestes a estourar.",
-  "rating": 7.672,
-  "year": "2007",
-  "url": "https://ia801400.us.archive.org/14/items/harry-potter-e-a-ordem-da-fenix-paixaoflix/Harry%20Potter%20e%20a%20Ordem%20da%20F%C3%AAnix.ia.mp4?cnt=0"
-},
+    "id": "harry_potter_e_a_ordem_da_fenix",
+    "titulo": "Harry Potter e a Ordem da Fênix",
+    "capa": "https://image.tmdb.org/t/p/w342/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg",
+    "sinopse": "Lord Voldemort está de volta, mas o Ministério da Magia está fazendo tudo a seu alcance para impedir que a comunidade mundial de bruxos descubra isso. Quando a professora Umbridge se recusa a ensinar magia defensiva, Harry secretamente treina um grupo de estudantes para a guerra.",
+    "rating": 7.672,
+    "year": "2007",
+    "generos": [14, 12, 18],
+    "url": "https://ia801400.us.archive.org/14/items/harry-potter-e-a-ordem-da-fenix-paixaoflix/Harry%20Potter%20e%20a%20Ordem%20da%20F%C3%AAnix.ia.mp4?cnt=0"
+  },
   {
-  "id": "a_fuga_das_galinhas_a_ameaca_dos_nuggets",
-  "titulo": "A Fuga das Galinhas - A Ameaça dos Nuggets",
-  "capa": "https://image.tmdb.org/t/p/w342/8O7qM2ue5VHPsu1FFbZSRMpCqwY.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/utChUdMhCEWKjHTc8DO5aK8dUVS.jpg",
-  "sinopse": "Um grupo de galinhas destemidas se une para enfrentar uma nova ameaça: uma fazenda muito suspeita, com cheiro de fritura no ar.",
-  "rating": 6.932,
-  "year": "2023",
-  "url": "https://ia800404.us.archive.org/20/items/afugadasgalinhasaameacadosnuggets-kids-paixaoflix/A%20Fuga%20das%20Galinhas%20-%20A%20Amea%C3%A7a%20dos%20Nuggets_ready.mp4"
-},
+    "id": "a_fuga_das_galinhas_a_ameaca_dos_nuggets",
+    "titulo": "A Fuga das Galinhas - A Ameaça dos Nuggets",
+    "capa": "https://image.tmdb.org/t/p/w342/8O7qM2ue5VHPsu1FFbZSRMpCqwY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/utChUdMhCEWKjHTc8DO5aK8dUVS.jpg",
+    "sinopse": "Um grupo de galinhas destemidas se une para enfrentar uma nova ameaça: uma fazenda muito suspeita, com cheiro de fritura no ar.",
+    "rating": 6.932,
+    "year": "2023",
+    "generos": [16, 10751, 12],
+    "url": "https://ia800404.us.archive.org/20/items/afugadasgalinhasaameacadosnuggets-kids-paixaoflix/A%20Fuga%20das%20Galinhas%20-%20A%20Amea%C3%A7a%20dos%20Nuggets_ready.mp4"
+  },
   {
-  "id": "planeta_dos_macacos_o_reinado",
-  "titulo": "Planeta dos Macacos: O Reinado",
-  "capa": "https://image.tmdb.org/t/p/w342/hBGnLm2A1TapONoPo7QrMpj2B6B.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/fqv8v6AycXKsivp1T5yKtLbGXce.jpg",
-  "sinopse": "Várias gerações no futuro, após o reinado de César, os macacos são agora a espécie dominante e vivem harmoniosamente, enquanto os humanos foram reduzidos a viver nas sombras. À medida que um novo líder símio tirânico constrói o seu império, um jovem macaco empreende uma jornada angustiante que o levará a questionar tudo o que sabia sobre o passado e a fazer escolhas que definirão um futuro tanto para os macacos como para os humanos.",
-  "rating": 7.058,
-  "year": "2024",
-  "url": "https://ia601707.us.archive.org/22/items/planetadosmacacosoreinado-paixaoflix/Planeta%20dos%20Macacos%20-%20O%20Reinado_ready.mp4"
-},
+    "id": "planeta_dos_macacos_o_reinado",
+    "titulo": "Planeta dos Macacos: O Reinado",
+    "capa": "https://image.tmdb.org/t/p/w342/hBGnLm2A1TapONoPo7QrMpj2B6B.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/fqv8v6AycXKsivp1T5yKtLbGXce.jpg",
+    "sinopse": "Várias gerações no futuro, após o reinado de César, os macacos são agora a espécie dominante. Um jovem macaco empreende uma jornada que o levará a questionar tudo sobre o passado e a fazer escolhas que definirão o futuro.",
+    "rating": 7.058,
+    "year": "2024",
+    "generos": [28, 18, 878],
+    "url": "https://ia601707.us.archive.org/22/items/planetadosmacacosoreinado-paixaoflix/Planeta%20dos%20Macacos%20-%20O%20Reinado_ready.mp4"
+  },
   {
-  "id": "fome_de_poder",
-  "titulo": "Fome de Poder",
-  "capa": "https://image.tmdb.org/t/p/w342/1YpHj6aV1yKWP20hKj1KUiLaIbi.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/5WparwIlAtSZW0tcWbK2NHEZJC6.jpg",
-  "sinopse": "A história da ascenção do McDonald's. Após receber uma demanda sem precedentes e notar uma movimentação de consumidores fora do normal, o vendedor de Illinois Ray Kroc adquire uma participação nos negócios da lanchonete dos irmãos Richard e Maurice \"Mac\" McDonald no sul da Califórnia e, pouco a pouco eliminando os dois da rede, transforma a marca em um gigantesco império alimentício.",
-  "rating": 7.139,
-  "year": "2016",
-  "url": "https://ia601709.us.archive.org/33/items/fome-de-poder-paixaoflix/Fome%20de%20Poder.ia.mp4"
-},
+    "id": "fome_de_poder",
+    "titulo": "Fome de Poder",
+    "capa": "https://image.tmdb.org/t/p/w342/1YpHj6aV1yKWP20hKj1KUiLaIbi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/5WparwIlAtSZW0tcWbK2NHEZJC6.jpg",
+    "sinopse": "A história da ascensão do McDonald's. O vendedor Ray Kroc adquire uma participação nos negócios dos irmãos McDonald e, pouco a pouco eliminando os dois da rede, transforma a marca em um gigantesco império alimentício.",
+    "rating": 7.139,
+    "year": "2016",
+    "generos": [18, 36],
+    "url": "https://ia601709.us.archive.org/33/items/fome-de-poder-paixaoflix/Fome%20de%20Poder.ia.mp4"
+  },
   {
-  "id": "ate_a_ultima_gota",
-  "titulo": "Até a Última Gota",
-  "capa": "https://image.tmdb.org/t/p/w342/t3nmSPWX5MOKdpAuTb2t5g69BT3.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/fnbWrDx8w8Reau4F1tFqoGuGmDZ.jpg",
-  "sinopse": "Até onde ela vai aguentar? Após um dia devastador, uma mãe solo dedicada chega ao seu limite e comete um ato de desespero que ninguém poderia prever.",
-  "rating": 7.712,
-  "year": "2025",
-  "url": "https://ia601709.us.archive.org/28/items/ate-a-ultima-gota-paixaoflix/At%C3%A9%20a%20%C3%9Altima%20Gota.ia.mp4?cnt=0"
-},
+    "id": "ate_a_ultima_gota",
+    "titulo": "Até a Última Gota",
+    "capa": "https://image.tmdb.org/t/p/w342/t3nmSPWX5MOKdpAuTb2t5g69BT3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/fnbWrDx8w8Reau4F1tFqoGuGmDZ.jpg",
+    "sinopse": "Após um dia devastador, uma mãe solo dedicada chega ao seu limite e comete um ato de desespero que ninguém poderia prever.",
+    "rating": 7.712,
+    "year": "2025",
+    "generos": [18, 53],
+    "url": "https://ia601709.us.archive.org/28/items/ate-a-ultima-gota-paixaoflix/At%C3%A9%20a%20%C3%9Altima%20Gota.ia.mp4?cnt=0"
+  },
   {
-  "id": "o_menino_que_descobriu_o_vento",
-  "titulo": "O Menino que Descobriu o Vento",
-  "capa": "https://image.tmdb.org/t/p/w342/jZofpz4gmiH7MQAYWrgvTtdIq3l.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/lB8mrGjgOxVuiGzBNbHfUrFw02d.jpg",
-  "sinopse": "Inspirado por um livro de ciências, um garoto constrói uma turbina eólica para salvar seu vilarejo da fome. Baseado em uma história real.",
-  "rating": 7.875,
-  "year": "2019",
-  "url": "https://ia601703.us.archive.org/14/items/o-menino-que-descobriu-o-vento-paixaoflix/O%20Menino%20que%20Descobriu%20o%20Vento.ia.mp4"
-},
+    "id": "o_menino_que_descobriu_o_vento",
+    "titulo": "O Menino que Descobriu o Vento",
+    "capa": "https://image.tmdb.org/t/p/w342/jZofpz4gmiH7MQAYWrgvTtdIq3l.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/lB8mrGjgOxVuiGzBNbHfUrFw02d.jpg",
+    "sinopse": "Inspirado por um livro de ciências, um garoto constrói uma turbina eólica para salvar seu vilarejo da fome. Baseado em uma história real.",
+    "rating": 7.875,
+    "year": "2019",
+    "generos": [18, 36],
+    "url": "https://ia601703.us.archive.org/14/items/o-menino-que-descobriu-o-vento-paixaoflix/O%20Menino%20que%20Descobriu%20o%20Vento.ia.mp4"
+  },
   {
-  "id": "pantera_negra",
-  "titulo": "Pantera Negra",
-  "capa": "https://image.tmdb.org/t/p/w342/ubXNpxL2ASSzY0f8Hxv08pOsV2L.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/19Ed4XgjahPm4U8JT7SnntERIlt.jpg",
-  "sinopse": "O príncipe T'Challa retorna a Wakanda para ser coroado rei. Assumindo o manto de Pantera Negra, ele vai à caça de um vilão que roubou um precioso metal de seu país.",
-  "rating": 7.362,
-  "year": "2018",
-  "url": "https://ia801307.us.archive.org/4/items/panteranegraptbr-paixaoflix/Pantera%20Negra_ptbr_ready.mp4"
-},
+    "id": "pantera_negra",
+    "titulo": "Pantera Negra",
+    "capa": "https://image.tmdb.org/t/p/w342/ubXNpxL2ASSzY0f8Hxv08pOsV2L.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/19Ed4XgjahPm4U8JT7SnntERIlt.jpg",
+    "sinopse": "O príncipe T'Challa retorna a Wakanda para ser coroado rei. Assumindo o manto de Pantera Negra, ele vai à caça de um vilão que roubou um precioso metal de seu país.",
+    "rating": 7.362,
+    "year": "2018",
+    "generos": [28, 12, 878],
+    "url": "https://ia801307.us.archive.org/4/items/panteranegraptbr-paixaoflix/Pantera%20Negra_ptbr_ready.mp4"
+  },
   {
-  "id": "tropa_de_elite_2_o_inimigo_agora_e_outro",
-  "titulo": "Tropa de Elite 2: O Inimigo Agora é Outro",
-  "capa": "https://image.tmdb.org/t/p/w342/gW2JzWuOKHkKOr33slfBEQJYYeS.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/tmowA51oykuOdiyqRCP0jGYU1mB.jpg",
-  "sinopse": "O destino da cidade do Rio de Janeiro e de Nascimento se cruzam em \"Tropa de Elite 2\", quando suas obrigações de pai se chocam com as de policial. Mais maduro, estratégico e solitário, o agora Coronel Nascimento faz o bope crescer e coloca o tráfico de drogas de joelho. Isto apenas para descobrir que na segurança pública do Rio de Janeiro nada é o que parece. O sistema se reinventa e descobre como lucrar sem o intermédio do tráfico. Em perseguição ao caminho trilhado pelo sistema, Nascimento vai além dos limites do quartel, revelando as ligações das milícias com o Estado. E o preço por essa descoberta é alto: o inimigo agora é outro.",
-  "rating": 7.825,
-  "year": "2010",
-  "url": "https://ia601701.us.archive.org/29/items/tropadeeliteii-police-paixaoflix/Tropa%20de%20Elite%20II_ready.mp4?cnt=0"
-},
+    "id": "tropa_de_elite_2_o_inimigo_agora_e_outro",
+    "titulo": "Tropa de Elite 2: O Inimigo Agora é Outro",
+    "capa": "https://image.tmdb.org/t/p/w342/gW2JzWuOKHkKOr33slfBEQJYYeS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/tmowA51oykuOdiyqRCP0jGYU1mB.jpg",
+    "sinopse": "O Coronel Nascimento faz o BOPE crescer e coloca o tráfico de drogas de joelho. Mas ao seguir o caminho do sistema, Nascimento vai além dos limites do quartel, revelando as ligações das milícias com o Estado.",
+    "rating": 7.825,
+    "year": "2010",
+    "generos": [28, 80, 18],
+    "url": "https://ia601701.us.archive.org/29/items/tropadeeliteii-police-paixaoflix/Tropa%20de%20Elite%20II_ready.mp4?cnt=0"
+  },
   {
-  "id": "a_maldicao_de_cinderela",
-  "titulo": "A Maldição de Cinderela",
-  "capa": "https://image.tmdb.org/t/p/w342/x7joKRpqjwmE4PkBiORzIquYtqR.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/orTQxcx2aoNpx1DIKTjBzpzvzd0.jpg",
-  "sinopse": "Baseado no mesmo conto popular que a Disney atualizou e popularizou para crianças na década de 1950. Desta vez, uma pequena adaptação da história coloca Cinderela e todos ao seu redor dentro de uma bola sangrenta que eles nunca esquecerão.",
-  "rating": 5.895,
-  "year": "2024",
-  "url": "https://ia600402.us.archive.org/18/items/PaixaoFlix-A-Maldicao-de-Cinderela-2024/A%20Maldi%C3%A7%C3%A3o%20de%20Cinderela%202024%202%200.mp4?cnt=0"
-},
+    "id": "a_maldicao_de_cinderela",
+    "titulo": "A Maldição de Cinderela",
+    "capa": "https://image.tmdb.org/t/p/w342/x7joKRpqjwmE4PkBiORzIquYtqR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/orTQxcx2aoNpx1DIKTjBzpzvzd0.jpg",
+    "sinopse": "Baseado no mesmo conto popular que a Disney popularizou. Desta vez, uma adaptação coloca Cinderela e todos ao seu redor dentro de uma bola sangrenta que eles nunca esquecerão.",
+    "rating": 5.895,
+    "year": "2024",
+    "generos": [27, 53],
+    "url": "https://ia600402.us.archive.org/18/items/PaixaoFlix-A-Maldicao-de-Cinderela-2024/A%20Maldi%C3%A7%C3%A3o%20de%20Cinderela%202024%202%200.mp4?cnt=0"
+  },
   {
-  "id": "avatar_o_caminho_da_agua",
-  "titulo": "Avatar: O Caminho da Água",
-  "capa": "https://image.tmdb.org/t/p/w342/9gZkGcvhyZmhpYDCeTCh0k6RGyh.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg",
-  "sinopse": "12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.",
-  "rating": 7.596,
-  "year": "2022",
-  "url": "https://ia600805.us.archive.org/25/items/PaixaoFlix-Avatar-O-Caminho-da-Agua/Avatar%20O%20Caminho%20da%20%C3%81gua.mp4"
-},
+    "id": "avatar_o_caminho_da_agua",
+    "titulo": "Avatar: O Caminho da Água",
+    "capa": "https://image.tmdb.org/t/p/w342/9gZkGcvhyZmhpYDCeTCh0k6RGyh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg",
+    "sinopse": "12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri. Porém, a paz não durará para sempre.",
+    "rating": 7.596,
+    "year": "2022",
+    "generos": [28, 12, 878],
+    "url": "https://ia600805.us.archive.org/25/items/PaixaoFlix-Avatar-O-Caminho-da-Agua/Avatar%20O%20Caminho%20da%20%C3%81gua.mp4"
+  },
   {
-  "id": "ilha_do_medo",
-  "titulo": "Ilha do Medo",
-  "capa": "https://image.tmdb.org/t/p/w342/9JHlzQyzyXcsGgl0htYfsm8AnfS.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
-  "sinopse": "No verão de 1954, os agentes judiciais Teddy Daniels (DiCaprio) e Chuck Aule (Ruffalo) foram designados para uma ilha remota do porto de Boston para investigar o desaparecimento de uma perigosa assassina (Mortimer) que estava reclusa no hospital psiquiátrico Ashecliffe, um centro penitenciário para criminosos perturbados dirigido pelo sinistro médico John Cawley. (Kingsley). Logo eles descobrem que o centro guarda muitos segredos e que a ilha esconde algo mais perigoso que os pacientes.",
-  "rating": 8.199,
-  "year": "2010",
-  "url": "https://ia803200.us.archive.org/27/items/PaixaoFlix-Ilha-do-Medo-Shutter-Island/Ilha%20do%20Medo.mp4"
-},
+    "id": "ilha_do_medo",
+    "titulo": "Ilha do Medo",
+    "capa": "https://image.tmdb.org/t/p/w342/9JHlzQyzyXcsGgl0htYfsm8AnfS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
+    "sinopse": "Os agentes judiciais Teddy Daniels e Chuck Aule investigam o desaparecimento de uma perigosa assassina em um hospital psiquiátrico. Logo descobrem que a ilha esconde algo mais perigoso que os próprios pacientes.",
+    "rating": 8.199,
+    "year": "2010",
+    "generos": [27, 9648, 53],
+    "url": "https://ia803200.us.archive.org/27/items/PaixaoFlix-Ilha-do-Medo-Shutter-Island/Ilha%20do%20Medo.mp4"
+  },
   {
-  "id": "a_cela_dos_milagres",
-  "titulo": "A Cela dos Milagres",
-  "capa": "https://image.tmdb.org/t/p/w342/xaloioubOPQOFaERBPxLHnONyeJ.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/fIuuYkIjF9Q7W26YbIeKX5OWwiL.jpg",
-  "sinopse": "Preso por um crime que não cometeu, um pai dedicado luta para provar a própria inocência. Enquanto isso, sua filha precisa se virar sozinha.",
-  "rating": 7.838,
-  "year": "2025",
-  "url": "https://ia800806.us.archive.org/21/items/PaixaoFlix-A-Cela-dos-Milagres/A%20Cela%20dos%20Milagres%202026%205%201.mp4"
-},
+    "id": "a_cela_dos_milagres",
+    "titulo": "A Cela dos Milagres",
+    "capa": "https://image.tmdb.org/t/p/w342/xaloioubOPQOFaERBPxLHnONyeJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/fIuuYkIjF9Q7W26YbIeKX5OWwiL.jpg",
+    "sinopse": "Preso por um crime que não cometeu, um pai dedicado luta para provar a própria inocência. Enquanto isso, sua filha precisa se virar sozinha.",
+    "rating": 7.838,
+    "year": "2025",
+    "generos": [18, 53],
+    "url": "https://ia800806.us.archive.org/21/items/PaixaoFlix-A-Cela-dos-Milagres/A%20Cela%20dos%20Milagres%202026%205%201.mp4"
+  },
   {
-  "id": "corra_que_a_policia_vem_ai_2",
-  "titulo": "Corra que a Polícia Vem Aí! 2½",
-  "capa": "https://image.tmdb.org/t/p/w342/vm2sW0g0wMYCFNGvyBDAtxtjW6S.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/kCW0C3Bv5IsasICx3StdNEejfB5.jpg",
-  "sinopse": "O tenente Frank Drebin precisa descobrir como deter o infame plano de Quentin Hapsburg, que planeja destruir o meio ambiente. Nesta hilariante sequência, estão de volta também Jane, a mulher que consegue derreter um sanduíche de queijo em 20 passos, e o destemido capitão Ed Hocken.",
-  "rating": 6.806,
-  "year": "1991",
-  "url": "https://ia800500.us.archive.org/5/items/PaixaoFlix-Corra-que-a-Policia-Vem-Ai-2-1991/Corra%20que%20a%20Pol%C3%ADcia%20Vem%20A%C3%AD%202%20dat2014.mp4"
-},
+    "id": "corra_que_a_policia_vem_ai_2",
+    "titulo": "Corra que a Polícia Vem Aí! 2½",
+    "capa": "https://image.tmdb.org/t/p/w342/vm2sW0g0wMYCFNGvyBDAtxtjW6S.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/kCW0C3Bv5IsasICx3StdNEejfB5.jpg",
+    "sinopse": "O tenente Frank Drebin precisa descobrir como deter o infame plano de Quentin Hapsburg, que planeja destruir o meio ambiente. Nesta hilariante sequência estão de volta Jane e o destemido capitão Ed Hocken.",
+    "rating": 6.806,
+    "year": "1991",
+    "generos": [35, 80],
+    "url": "https://ia800500.us.archive.org/5/items/PaixaoFlix-Corra-que-a-Policia-Vem-Ai-2-1991/Corra%20que%20a%20Pol%C3%ADcia%20Vem%20A%C3%AD%202%20dat2014.mp4"
+  },
   {
-  "id": "fique_rico_ou_morra_tentando",
-  "titulo": "Fique Rico ou Morra Tentando",
-  "capa": "https://image.tmdb.org/t/p/w342/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/bxJmFRjwWnpoLFkp5OSzA7xfzn6.jpg",
-  "sinopse": "Após a morte de sua mãe quando ele era um menino, Marcus tem pouco apoio em sua vida. Ele começa a trabalhar para o traficante Levar e seu assistente. Apesar de Marcus fazer bom dinheiro vendendo drogas, seu sonho é se tornar um rapper. Quando ele reencontra um antigo amor e é baleado várias vezes durante um assalto, Marcus decide que é hora de mudar sua vida. No entanto, seus antigos sócios não vão deixá-lo ir tão facilmente.",
-  "rating": 6.8,
-  "year": "2005",
-  "url": "https://ia803202.us.archive.org/29/items/PaixaoFlix-Fique-Rico-ou-Morra-Tentando/Fique%20Rico%20ou%20Morra%20Tentando.mp4?cnt=0"
-},
+    "id": "fique_rico_ou_morra_tentando",
+    "titulo": "Fique Rico ou Morra Tentando",
+    "capa": "https://image.tmdb.org/t/p/w342/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/bxJmFRjwWnpoLFkp5OSzA7xfzn6.jpg",
+    "sinopse": "Após a morte de sua mãe, Marcus começa a trabalhar para um traficante. Apesar de fazer bom dinheiro vendendo drogas, seu sonho é se tornar um rapper. Quando é baleado durante um assalto, Marcus decide que é hora de mudar sua vida.",
+    "rating": 6.8,
+    "year": "2005",
+    "generos": [80, 18, 10402],
+    "url": "https://ia803202.us.archive.org/29/items/PaixaoFlix-Fique-Rico-ou-Morra-Tentando/Fique%20Rico%20ou%20Morra%20Tentando.mp4?cnt=0"
+  },
   {
-  "id": "o_maskara",
-  "titulo": "O Máskara",
-  "capa": "https://image.tmdb.org/t/p/w342/zLLC7AldfrYUot7lsw3ePFSs87e.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/bQlw59HncOXX9alFlOYKHAvSnm.jpg",
-  "sinopse": "Em Edge City vive Stanley Ipkiss, um cara decente que trabalha em um banco, mas é socialmente desajeitado e sem muito sucesso com as mulheres. Após um dos piores dias da sua vida, ele acha no mar a estranha máscara de Loki, um deus escandinavo. Quando Stanley coloca a máscara, se transforma em \"O Máskara\", um ser com o rosto verde que possui a coragem para fazer as coisas mais arriscadas e divertidas que Stanley receia fazer, inclusive flertar com Tina Carlyle, a bela e sensual cantora que se apresenta no Coco Bongo, a discoteca do momento. O Máskara tem velocidade sobre-humana e um humor não-convencional e, enquanto isto, o gângster Dorian Tyrrell, que namora Tina, se esforça para destruir o Máskara e se apoderar da máscara para usar seus poderes para o mal.",
-  "rating": 6.978,
-  "year": "1994",
-  "url": "https://ia801405.us.archive.org/19/items/PaixaoFlix-O-Maskara-1994/O%20M%C3%A1skara%201994.mp4"
-},
+    "id": "o_maskara",
+    "titulo": "O Máskara",
+    "capa": "https://image.tmdb.org/t/p/w342/zLLC7AldfrYUot7lsw3ePFSs87e.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/bQlw59HncOXX9alFlOYKHAvSnm.jpg",
+    "sinopse": "Stanley Ipkiss é um cara decente que trabalha em um banco mas é socialmente desajeitado. Após achar a estranha máscara de Loki, ele se transforma em O Máskara, um ser com rosto verde que possui coragem para fazer as coisas mais arriscadas e divertidas.",
+    "rating": 6.978,
+    "year": "1994",
+    "generos": [35, 28, 14],
+    "url": "https://ia801405.us.archive.org/19/items/PaixaoFlix-O-Maskara-1994/O%20M%C3%A1skara%201994.mp4"
+  },
   {
-  "id": "mufasa_o_rei_leao",
-  "titulo": "Mufasa: O Rei Leão",
-  "capa": "https://image.tmdb.org/t/p/w342/iMVuv6Gz5fj7vZ51IjRF3AiW87y.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
-  "sinopse": "Acompanhe a história épica da ascensão improvável do amado rei das Terras do Reino. Órfão e sozinho, Mufasa se perde até encontrar Taka, herdeiro de uma linhagem real. Isso dá início a uma jornada épica que testa os laços entre os dois enquanto enfrentam um inimigo mortal.",
-  "rating": 7.311,
-  "year": "2024",
-  "url": "https://ia601500.us.archive.org/24/items/mufasa-o-rei-leao-paixaoflix/CONV_Mufasa%20O%20Rei%20Leao.ia.mp4"
-},
+    "id": "mufasa_o_rei_leao",
+    "titulo": "Mufasa: O Rei Leão",
+    "capa": "https://image.tmdb.org/t/p/w342/iMVuv6Gz5fj7vZ51IjRF3AiW87y.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+    "sinopse": "Acompanhe a história épica da ascensão improvável do amado rei das Terras do Reino. Órfão e sozinho, Mufasa se perde até encontrar Taka, herdeiro de uma linhagem real.",
+    "rating": 7.311,
+    "year": "2024",
+    "generos": [16, 10751, 18],
+    "url": "https://ia601500.us.archive.org/24/items/mufasa-o-rei-leao-paixaoflix/CONV_Mufasa%20O%20Rei%20Leao.ia.mp4"
+  },
   {
-  "id": "percy_jackson_e_o_mar_de_monstros",
-  "titulo": "Percy Jackson e o Mar de Monstros",
-  "capa": "https://image.tmdb.org/t/p/w342/izLw6mf5coAJZV6n9wDfbYWXXHW.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/fvrGb6zfQaQ8RD9pC8o9vv1b7W2.jpg",
-  "sinopse": "Percy e seus amigos estão na busca pelo Velocino de Ouro, o único artefato mágico capaz de proteger o Acampamento Meio-Sangue da destruição. É com essa missão que ele e outros campistas partem para uma eletrizante viagem pelo Mar de Monstros, onde deparam com seres fantásticos, perigos e situações inusitadas, que põem à prova seu heroísmo e sua herança. Está em jogo a existência de seu refúgio predileto e, até então, o lugar mais seguro do mundo para eles.",
-  "rating": 6.026,
-  "year": "2013",
-  "url": "https://ia600301.us.archive.org/28/items/percy-jackson-e-o-mar-de-monstros-paixaoflix/CONV_Percy%20Jackson%20e%20o%20Mar%20de%20Monstros.ia.mp4"
-},
+    "id": "percy_jackson_e_o_mar_de_monstros",
+    "titulo": "Percy Jackson e o Mar de Monstros",
+    "capa": "https://image.tmdb.org/t/p/w342/izLw6mf5coAJZV6n9wDfbYWXXHW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/fvrGb6zfQaQ8RD9pC8o9vv1b7W2.jpg",
+    "sinopse": "Percy e seus amigos estão na busca pelo Velocino de Ouro, o único artefato mágico capaz de proteger o Acampamento Meio-Sangue. Eles partem para uma eletrizante viagem pelo Mar de Monstros.",
+    "rating": 6.026,
+    "year": "2013",
+    "generos": [28, 12, 14],
+    "url": "https://ia600301.us.archive.org/28/items/percy-jackson-e-o-mar-de-monstros-paixaoflix/CONV_Percy%20Jackson%20e%20o%20Mar%20de%20Monstros.ia.mp4"
+  },
   {
-  "id": "dinheiro_suspeito",
-  "titulo": "Dinheiro Suspeito",
-  "capa": "https://image.tmdb.org/t/p/w342/bm04TGkE5ySrHbHlO6YloYZvs4P.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/3F2EXWF1thX0BdrVaKvnm6mAhqh.jpg",
-  "sinopse": "Quando uma equipe de policiais de Miami encontra milhões de dólares em um muquifo usado como esconderijo, a confiança fica abalada e todos viram suspeitos.",
-  "rating": 7.063,
-  "year": "2026",
-  "url": "https://ia600304.us.archive.org/3/items/dinheiro-suspeito-paixaoflix/CONV_Dinheiro%20Suspeito.ia.mp4"
-},
+    "id": "dinheiro_suspeito",
+    "titulo": "Dinheiro Suspeito",
+    "capa": "https://image.tmdb.org/t/p/w342/bm04TGkE5ySrHbHlO6YloYZvs4P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/3F2EXWF1thX0BdrVaKvnm6mAhqh.jpg",
+    "sinopse": "Quando uma equipe de policiais de Miami encontra milhões de dólares em um muquifo usado como esconderijo, a confiança fica abalada e todos viram suspeitos.",
+    "rating": 7.063,
+    "year": "2026",
+    "generos": [28, 80, 53],
+    "url": "https://ia600304.us.archive.org/3/items/dinheiro-suspeito-paixaoflix/CONV_Dinheiro%20Suspeito.ia.mp4"
+  },
   {
-  "id": "as_branquelas",
-  "titulo": "As Branquelas",
-  "capa": "https://image.tmdb.org/t/p/w342/aJZOcorpgloDLkPP6ED0t9sXjNu.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/85k0kaoRgGmF6ACq0M61AFxhjLN.jpg",
-  "sinopse": "O que acontece quando dois atrapalhados agentes do FBI se disfarçam de princesas mega-ricas para se infiltrarem na alta sociedade? O resultado é situações extremamente engraçadas e diversão total ao ver estes dois irmãos azarados transformando-se em duas senhoritas refinadas e com estilo!",
-  "rating": 6.931,
-  "year": "2004",
-  "url": "https://ia800309.us.archive.org/26/items/as-branquelas-sem-cortes-paixaoflix/As%20Branquelas%20Sem%20Cortes.mp4?cnt=0"
-},
+    "id": "as_branquelas",
+    "titulo": "As Branquelas",
+    "capa": "https://image.tmdb.org/t/p/w342/aJZOcorpgloDLkPP6ED0t9sXjNu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/85k0kaoRgGmF6ACq0M61AFxhjLN.jpg",
+    "sinopse": "O que acontece quando dois atrapalhados agentes do FBI se disfarçam de princesas mega-ricas para se infiltrarem na alta sociedade? O resultado são situações extremamente engraçadas.",
+    "rating": 6.931,
+    "year": "2004",
+    "generos": [35, 80],
+    "url": "https://ia800309.us.archive.org/26/items/as-branquelas-sem-cortes-paixaoflix/As%20Branquelas%20Sem%20Cortes.mp4?cnt=0"
+  },
   {
-  "id": "hierarquia_do_crime",
-  "titulo": "Hierarquia do Crime",
-  "capa": "https://image.tmdb.org/t/p/w342/vMVnLjbHy5yxJL5Pr0dikIUmG34.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/ImIRPOvlxKC1jsKld5ZEpxmvmV.jpg",
-  "sinopse": "Dois irmãos adotivos no Texas são pegos no crime, fugindo da polícia e de mafiosos russos.",
-  "rating": 5.896,
-  "year": "2025",
-  "url": "https://ia600707.us.archive.org/5/items/paixaoflix-series-hierarquia-do-crime-2025/Hierarquia.do.Crime.2025.ia.mp4"
-},
+    "id": "hierarquia_do_crime",
+    "titulo": "Hierarquia do Crime",
+    "capa": "https://image.tmdb.org/t/p/w342/vMVnLjbHy5yxJL5Pr0dikIUmG34.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/ImIRPOvlxKC1jsKld5ZEpxmvmV.jpg",
+    "sinopse": "Dois irmãos adotivos no Texas são pegos no crime, fugindo da polícia e de mafiosos russos.",
+    "rating": 5.896,
+    "year": "2025",
+    "generos": [28, 80, 53],
+    "url": "https://ia600707.us.archive.org/5/items/paixaoflix-series-hierarquia-do-crime-2025/Hierarquia.do.Crime.2025.ia.mp4"
+  },
   {
-  "id": "o_poderoso_chefinho_2_negocios_da_familia",
-  "titulo": "O Poderoso Chefinho 2: Negócios da Família",
-  "capa": "https://image.tmdb.org/t/p/w342/olnWkuNwCDHPYTkLKktUnFLyHFg.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/yBov7O4eXDcBLDpZrOHZzFr8rIl.jpg",
-  "sinopse": "Em O Poderoso Chefinho 2 acompanha novamente os irmãos Tim e Ted, agora adultos e vivendo vidas separadas. Enquanto Tim construiu uma vida calma no subúrbio com sua esposa, Carol, e as filhas, Tabitha e Tina, Ted se transformou em um mega empresário que resolve todos os problemas com dinheiro. Mas quando Tim descobre que sua filha caçula também é agente do BabyCorp, ele precisará da ajuda do irmão mais novo para lidar com a situação.",
-  "rating": 7.336,
-  "year": "2021",
-  "url": "https://ia803100.us.archive.org/9/items/o-poderoso-chefinho-i-infantil-paixaoflix/O%20Poderoso%20Chefinho%20I.ia.mp4"
-},
+    "id": "o_poderoso_chefinho_2_negocios_da_familia",
+    "titulo": "O Poderoso Chefinho 2: Negócios da Família",
+    "capa": "https://image.tmdb.org/t/p/w342/olnWkuNwCDHPYTkLKktUnFLyHFg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/yBov7O4eXDcBLDpZrOHZzFr8rIl.jpg",
+    "sinopse": "Os irmãos Tim e Ted, agora adultos e vivendo vidas separadas, precisam se reunir quando Tim descobre que sua filha caçula também é agente do BabyCorp.",
+    "rating": 7.336,
+    "year": "2021",
+    "generos": [16, 35, 10751],
+    "url": "https://ia803100.us.archive.org/9/items/o-poderoso-chefinho-i-infantil-paixaoflix/O%20Poderoso%20Chefinho%20I.ia.mp4"
+  },
   {
-  "id": "os_caras_malvados_2",
-  "titulo": "Os Caras Malvados 2",
-  "capa": "https://image.tmdb.org/t/p/w342/dbpNAldCtWjotI4vEiphPrz8DJh.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/8FWLJHuWB72UXBmiMtxwTvQVumN.jpg",
-  "sinopse": "Os agora reformados Bad Guys estão tentando (muito, muito mesmo) ser bons, mas em vez disso se veem sequestrados para um assalto de alto risco e alcance mundial, arquitetado por uma nova equipe de criminosos que eles nunca imaginaram: as Bad Girls.",
-  "rating": 7.7,
-  "year": "2025",
-  "url": "https://ia601308.us.archive.org/13/items/os-caras-malvados-2-infantil-paixaoflix/Os%20Caras%20Malvados%20-%202.ia.mp4"
-},
+    "id": "os_caras_malvados_2",
+    "titulo": "Os Caras Malvados 2",
+    "capa": "https://image.tmdb.org/t/p/w342/dbpNAldCtWjotI4vEiphPrz8DJh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/8FWLJHuWB72UXBmiMtxwTvQVumN.jpg",
+    "sinopse": "Os agora reformados Bad Guys estão tentando ser bons, mas se veem sequestrados para um assalto de alto risco arquitetado por uma nova equipe de criminosos: as Bad Girls.",
+    "rating": 7.7,
+    "year": "2025",
+    "generos": [16, 35, 12],
+    "url": "https://ia601308.us.archive.org/13/items/os-caras-malvados-2-infantil-paixaoflix/Os%20Caras%20Malvados%20-%202.ia.mp4"
+  },
   {
-  "id": "osiris",
-  "titulo": "Osíris",
-  "capa": "https://image.tmdb.org/t/p/w342/zV73BurKh944kFpjna1QTF43gPl.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/ySHUoK4utUOiSfCinw81H1TsV0E.jpg",
-  "sinopse": "Comandos das Forças Especiais são sequestrados em plena operação por uma nave espacial misteriosa e, ao despertar, eles se veem vítimas de uma raça alienígena implacável em uma luta pela sobrevivência.",
-  "rating": 5.912,
-  "year": "2025",
-  "url": "https://ia800208.us.archive.org/34/items/osiris-scifi-paixaoflix/Os%C3%ADris_ready.mp4"
-},
+    "id": "osiris",
+    "titulo": "Osíris",
+    "capa": "https://image.tmdb.org/t/p/w342/zV73BurKh944kFpjna1QTF43gPl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/ySHUoK4utUOiSfCinw81H1TsV0E.jpg",
+    "sinopse": "Comandos das Forças Especiais são sequestrados em plena operação por uma nave espacial misteriosa e, ao despertar, se veem vítimas de uma raça alienígena implacável em uma luta pela sobrevivência.",
+    "rating": 5.912,
+    "year": "2025",
+    "generos": [28, 878, 53],
+    "url": "https://ia800208.us.archive.org/34/items/osiris-scifi-paixaoflix/Os%C3%ADris_ready.mp4"
+  },
   {
-  "id": "mma_meu_melhor_amigo",
-  "titulo": "MMA - Meu Melhor Amigo",
-  "capa": "https://image.tmdb.org/t/p/w342/959Vbki8itfHoNbZnURFBi5pULa.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/uwtLWyCEEVX5R2J7YplnWJwsYpV.jpg",
-  "sinopse": "Max, um grande campeão de MMA que está enfrentando o fim de sua carreira, está afastado do ringue enquanto se recupera de uma lesão séria no ombro. Quando descobre ser pai de um menino autista de 8 anos, ele precisa enfrentar dois desafios: compreender seu filho, conquistar seu carinho e ressignificar seus valores e se preparar para a maior luta da carreira, a sua última chance de uma grande volta.",
-  "rating": 5.6,
-  "year": "2025",
-  "url": "https://ia800404.us.archive.org/35/items/mma-meu-melhor-amigo-paixaoflix/MMA%20Meu%20Melhor%20Amigo.ia.mp4"
-},
+    "id": "mma_meu_melhor_amigo",
+    "titulo": "MMA - Meu Melhor Amigo",
+    "capa": "https://image.tmdb.org/t/p/w342/959Vbki8itfHoNbZnURFBi5pULa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/uwtLWyCEEVX5R2J7YplnWJwsYpV.jpg",
+    "sinopse": "Max, um grande campeão de MMA, descobre ser pai de um menino autista de 8 anos e precisa enfrentar dois desafios: compreender seu filho e se preparar para a maior luta da carreira.",
+    "rating": 5.6,
+    "year": "2025",
+    "generos": [18, 28],
+    "url": "https://ia800404.us.archive.org/35/items/mma-meu-melhor-amigo-paixaoflix/MMA%20Meu%20Melhor%20Amigo.ia.mp4"
+  },
   {
-  "id": "deslizando_pela_vida",
-  "titulo": "Deslizando pela Vida",
-  "capa": "https://image.tmdb.org/t/p/w342/6Q53nx651SCGCZFWIbethzQhyfZ.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/8gtogcxiWiODHR4BMscTsHplbH9.jpg",
-  "sinopse": "Desesperada, uma mãe solo com problemas de dinheiro decide participar de uma corrida de esquis com seu irmão perfeccionista (que de perfeito não tem nada).",
-  "rating": 6.079,
-  "year": "2022",
-  "url": "https://ia801501.us.archive.org/17/items/deslizando-pela-vida-paixaoflix/Deslizando%20pela%20Vida.ia.mp4"
-},
+    "id": "deslizando_pela_vida",
+    "titulo": "Deslizando pela Vida",
+    "capa": "https://image.tmdb.org/t/p/w342/6Q53nx651SCGCZFWIbethzQhyfZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/8gtogcxiWiODHR4BMscTsHplbH9.jpg",
+    "sinopse": "Desesperada, uma mãe solo com problemas de dinheiro decide participar de uma corrida de esquis com seu irmão perfeccionista.",
+    "rating": 6.079,
+    "year": "2022",
+    "generos": [35, 18],
+    "url": "https://ia801501.us.archive.org/17/items/deslizando-pela-vida-paixaoflix/Deslizando%20pela%20Vida.ia.mp4"
+  },
   {
-  "id": "divertida_mente_2",
-  "titulo": "Divertida Mente 2",
-  "capa": "https://image.tmdb.org/t/p/w342/lHKNS35r4RTa9GO72vdadMLxoiV.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
-  "sinopse": "\"Divertida Mente 2\", da Disney e da Pixar, retorna à mente da adolescente Riley, e o faz no momento em que a sala de comando está passando por uma demolição repentina para dar lugar a algo totalmente inesperado: novas emoções! Alegria, Tristeza, Raiva, Medo e Nojinho não sabem bem como reagir quando Ansiedade aparece, e tudo indica que ela não está sozinha.",
-  "rating": 7.548,
-  "year": "2024",
-  "url": "https://ia601400.us.archive.org/6/items/divertidamente-2-infantil-paixaoflix/DIVERTIDAMENTE%202.mp4?cnt=0"
-}
+    "id": "divertida_mente_2",
+    "titulo": "Divertida Mente 2",
+    "capa": "https://image.tmdb.org/t/p/w342/lHKNS35r4RTa9GO72vdadMLxoiV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+    "sinopse": "Divertida Mente 2 retorna à mente da adolescente Riley no momento em que a sala de comando está passando por uma demolição repentina para dar lugar a novas emoções. Alegria, Tristeza, Raiva, Medo e Nojinho não sabem como reagir quando Ansiedade aparece.",
+    "rating": 7.548,
+    "year": "2024",
+    "generos": [16, 10751, 35],
+    "url": "https://ia601400.us.archive.org/6/items/divertidamente-2-infantil-paixaoflix/DIVERTIDAMENTE%202.mp4?cnt=0"
+  }
 ]
-
