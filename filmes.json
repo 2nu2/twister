@@ -1,4 +1,37 @@
 [
+  
+    {
+    "id": "crepusculo",
+    "titulo": "Crepúsculo",
+    "capa": "https://image.tmdb.org/t/p/w342/o4ki1gYHkP6IWNdwjHvI9vzfpuC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+    "sinopse": "Isabella Swan é uma adolescente que vai morar com seu pai em uma nova cidade depois que sua mãe decide casar-se novamente. No colégio, ela fica fascinada por Edward Cullen, um garoto que esconde um segredo obscuro. Eles se apaixonam, mas Edward sabe que quanto mais avançam no relacionamento, mais ele está colocando Bella e aqueles à sua volta em perigo.",
+    "rating": 6.28,
+    "year": "2008",
+    "generos": [
+      14,
+      18,
+      10749
+    ],
+    "url": "https://ia600603.us.archive.org/25/items/paixaoflix_crepusculo/Crep%C3%BAsculo_PaixaoFlix.mp4"
+  },
+    {
+    "id": "abominavel",
+    "titulo": "Abominável",
+    "capa": "https://image.tmdb.org/t/p/w342/oC89hsRFoF4OcrgYIKysDD7M6XO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/jXk3ZMq7n4ugOqKYq0CtMn3gia8.jpg",
+    "sinopse": "Shanghai, China. Yi é uma adolescente que, certo dia, descobre que um yeti está no telhado do prédio em que ela mora. A partir disso, ela e seus colegas passam a chamar a criatura mística de \"Everest\" e, ao criarem laços com o animal, decidem levá-lo até sua família, que está no topo do planeta. Porém, os três amigos terão que conseguir despistar o ganancioso Burnish e a zoóloga Dra. Zara, que querem pegar o yeti a qualquer custo.",
+    "rating": 7.456,
+    "year": "2019",
+    "generos": [
+      10751,
+      16,
+      12,
+      35,
+      14
+    ],
+    "url": "https://ia600603.us.archive.org/2/items/paixaoflix_abominavell/Abomin%C3%A1vell_PaixaoFlix.ia.mp4"
+  },
   {
     "id": "velozes_e_furiosos",
     "titulo": "Velozes e Furiosos",
