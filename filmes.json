@@ -1,5 +1,62 @@
 [
-  
+  {
+  "id": "um_homem_sem_passado",
+  "titulo": "Um Homem sem Passado",
+  "capa": "https://image.tmdb.org/t/p/w342/1lrPXPE6MFmjj2Anfv9aIDz9FnA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8or4S9BPhkeYK0vlKsPFee4JVWI.jpg",
+  "sinopse": "Ao acordar em uma cidade estranha, um homem sem memória (Adam Woodward) busca a verdade sobre seu passado, apenas para ser levado diretamente a um confronto letal com um poderoso inimigo (o vencedor do Oscar® Jon Voight) que selará seu destino e revelará sua verdadeira identidade.",
+  "rating": 6.5,
+  "year": "2025",
+  "generos": [
+    28,
+    18
+  ],
+  "url": "https://ia801704.us.archive.org/13/items/homem-sem-passado-paixaoflix/Homem%20Sem%20Passado.ia.mp4"
+},
+  {
+  "id": "transformers_o_ultimo_cavaleiro",
+  "titulo": "Transformers: O Último Cavaleiro",
+  "capa": "https://image.tmdb.org/t/p/w342/7ugUPQw8JjGazfd28MIPADvDaUT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1n00NlOGRFZVs8coBxyZLm5l4EC.jpg",
+  "sinopse": "Optimus Prime encontra seu planeta natal, Cybertron, agora um planeta morto, e descobre que foi responsável por matá-lo.  Ele encontra uma maneira de trazer o planeta de volta à vida, mas para isso precisa encontrar um artefato que está na Terra.",
+  "rating": 6.056,
+  "year": "2017",
+  "generos": [
+    28,
+    12,
+    878
+  ],
+  "url": "https://ia800506.us.archive.org/23/items/paixaoflix-cinema-335988/Transformers_O_%C3%9Altimo_Cavaleiro.ia.mp4"
+},
+  {
+  "id": "bad_boys_para_sempre",
+  "titulo": "Bad Boys Para Sempre",
+  "capa": "https://image.tmdb.org/t/p/w342/kxV3r4H1BRB3QFySbgFyrlOwwXg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg",
+  "sinopse": "Marcus Burnett agora é um inspetor e Mike Lowrey se encontra numa crise de meia-idade. Mas a dupla tem que se juntar novamente quando um mercenário albanês, cujo irmão foi capturado por eles, promete um bônus de vingança justamente quando eles estão prestes a se aposentar.",
+  "rating": 7.112,
+  "year": "2020",
+  "generos": [
+    53,
+    28,
+    80
+  ],
+  "url": "https://ia800403.us.archive.org/16/items/paixaoflix-cinema-38700/Bad_Boys_Para_Sempre_38700.mp4"
+},
+  {
+  "id": "titanic",
+  "titulo": "Titanic",
+  "capa": "https://image.tmdb.org/t/p/w342/As0zX43h3w6kD2NS4uVHu9HKdEh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
+  "sinopse": "Um artista pobre e uma jovem rica se conhecem e se apaixonam na fatídica jornada do Titanic, em 1912. Embora esteja noiva do arrogante herdeiro de uma siderúrgica, a jovem desafia sua família e amigos em busca do verdadeiro amor.",
+  "rating": 7.902,
+  "year": "1997",
+  "generos": [
+    18,
+    10749
+  ],
+  "url": "https://ia801905.us.archive.org/13/items/paixaoflix_titanic/Titanic_PaixaoFlix.mp4"
+},
     {
     "id": "crepusculo",
     "titulo": "Crepúsculo",
