@@ -234,5 +234,44 @@
       ]
     }
   ]
+},
+{
+  "id": "RickMorty",
+  "tipo": "serie",
+  "titulo": "Rick and Morty",
+  "capa": "https://image.tmdb.org/t/p/original/8kOWDBK6XlPUzckuHDo3wwVRFwt.jpg",
+  "banner": "https://i.pinimg.com/736x/a0/f8/e6/a0f8e6a3e20fa18acf48988a0b4f8510.jpg",
+  "temporadas": [
+    {
+      "numero": 9,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "The Cold Open",
+          "url": "https://SEU-LINK/Rick.and.Morty.S09E01.mp4"
+        },
+        {
+          "numero": 2,
+          "titulo": "Valkyrick",
+          "url": "https://SEU-LINK/Rick.and.Morty.S09E02.mp4"
+        },
+        {
+          "numero": 3,
+          "titulo": "The Rick, The Mort & The Ugly",
+          "url": "https://SEU-LINK/Rick.and.Morty.S09E03.mp4"
+        },
+        {
+          "numero": 4,
+          "titulo": "The Last Temptation of Jerry",
+          "url": "https://SEU-LINK/Rick.and.Morty.S09E04.mp4"
+        },
+        {
+          "numero": 5,
+          "titulo": "Cryo Mort a Rickver",
+          "url": "https://SEU-LINK/Rick.and.Morty.S09E05.mp4"
+        }
+      ]
+    }
+  ]
 }
 ]
