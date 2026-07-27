@@ -1,5 +1,129 @@
 [
   {
+  "id": "chamas_da_vinganca",
+  "titulo": "Chamas da Vingança",
+  "capa": "https://image.tmdb.org/t/p/w342/w9BZFaK8MEwKjLtyFUS5zoPIYo1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6c7j7MQCczzNVvcrNEiXbs8Kt2p.jpg",
+  "sinopse": "Uma grande onda de sequestros e criminalidade varre a Cidade do México, fazendo com que muitos de seus cidadãos mais ricos contratem guarda-costas para seus filhos. John Creasy é um ex-agente da CIA. Sem emprego e bebendo mais do que deveria, ele aceita a proposta de ser guarda-costas da pequena Pita, uma garota de 9 anos que é filha de um industrial. O sequestro de Pita faz com que ele, mesmo ferido, parta para resgatá-la a qualquer custo.",
+  "rating": 7.47,
+  "year": "2004",
+  "generos": [
+    28,
+    18,
+    53
+  ],
+  "url": "https://ia801005.us.archive.org/23/items/PaixaoFlix-Chamas-da-Vinganca-2004/Chamas%20da%20Vingan%C3%A7a%202004%20Bluray%202%200.mp4?cnt=0"
+},
+  {
+  "id": "corra",
+  "titulo": "Corra!",
+  "capa": "https://image.tmdb.org/t/p/w342/A0RoSZh8PEYJgDMgM2EV7Ycz3dR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/o8dPH0ZSIyyViP6rjRX1djwCUwI.jpg",
+  "sinopse": "Agora que Chris e sua namorada, Rose, chegaram à fase de conhecer os pais no namoro, ela o convida para um fim de semana no interior com Missy e Dean. A princípio, Chris acha que o comportamento excessivamente agradável dos dois como tentativas nervosas de lidar com o relacionamento inter-racial da filha, mas, conforme o fim de semana avança, uma série de descobertas cada vez mais perturbadoras o levam a uma verdade que ele jamais poderia ter imaginado.",
+  "rating": 7.624,
+  "year": "2017",
+  "generos": [
+    9648,
+    53,
+    27
+  ],
+  "url": "https://ia601603.us.archive.org/16/items/PaixaoFlix-Corra-2017/Corra%202017.mp4?cnt=0"
+},
+  {
+  "id": "o_lobo_de_wall_street",
+  "titulo": "O Lobo de Wall Street",
+  "capa": "https://image.tmdb.org/t/p/w342/sIy0jXDkaMf3SDZGaWcmkC2IOl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+  "sinopse": "Durante seis meses, Jordan Belfort trabalhou duro em uma corretora de Wall Street, seguindo os ensinamentos de seu mentor Mark Hanna. Quando finalmente consegue ser contratado como corretor da firma, acontece o Black Monday, que faz com que as bolsas de vários países caiam repentinamente. Sem emprego e bastante ambicioso, ele acaba trabalhando para uma empresa de fundo de quintal que lida com papéis de baixo valor, que não estão na bolsa de valores. É lá que Belfort tem a idéia de montar uma empresa focada neste tipo de negócio, cujas vendas são de valores mais baixos mas, em compensação, o retorno para o corretor é bem mais vantajoso. Ao lado de Donnie e outros amigos dos velhos tempos, ele cria a Stratton Oakmont, uma empresa que faz com que todos enriqueçam rapidamente e, também, levem uma vida dedicada ao prazer.",
+  "rating": 8.028,
+  "year": "2013",
+  "generos": [
+    80,
+    18,
+    35
+  ],
+  "url": "https://ia600602.us.archive.org/6/items/PaixaoFlix-O-Lobo-de-Wall-Street/O%20Lobo%20de%20Wall%20Street.mp4?cnt=0"
+},
+  {
+  "id": "space_jam_um_novo_legado",
+  "titulo": "Space Jam: Um Novo Legado",
+  "capa": "https://image.tmdb.org/t/p/w342/itN4fscYy1hIQy5lSdv44SddsoG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8s4h9friP6Ci3adRGahHARVd76E.jpg",
+  "sinopse": "O superastro do basquete LeBron James se junta à gangue Looney Tunes para derrotar o Goon Squad e salvar seu filho.",
+  "rating": 6.638,
+  "year": "2021",
+  "generos": [
+    10751,
+    35,
+    12,
+    16,
+    878
+  ],
+  "url": "https://ia600906.us.archive.org/3/items/PaixaoFlix-Space-Jam-Um-Novo-Legado-2021/Space%20Jam%20Um%20Novo%20Legado%202021.mp4?cnt=0"
+},
+  {
+  "id": "space_jam_o_jogo_do_seculo",
+  "titulo": "Space Jam: O Jogo do Século",
+  "capa": "https://image.tmdb.org/t/p/w342/zgenqfTIvoEs6jcmokKfbi1ZURS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lWybXICZZpxnSvWSOW53XxTERUg.jpg",
+  "sinopse": "Um poderoso vilão intergalático decide que Pernalonga e sua turma são a atração perfeita para seu novo parque de diversões. Ele envia um grupo de pequenos alienígenas para capturá-los. Para evitar o seu próprio sequestro, Pernalonga propõe um jogo de basquete em troca de sua liberdade. Mas os pequenos alienígenas têm uma arma secreta: Eles roubaram as habilidades dos melhores jogadores da NBA e formaram um time da pesada. Agora só existe uma chance de Pernalonga e seus amigos ganharem esta partida. Eles precisam da ajuda do mais famoso jogador de basquete de todos os tempos: Michael Jordan!",
+  "rating": 6.811,
+  "year": "1996",
+  "generos": [
+    10751,
+    16,
+    878,
+    14,
+    35
+  ],
+  "url": "https://ia801408.us.archive.org/10/items/PaixaoFlix-Space-Jam-O-Jogo-do-Seculo-1996/Space%20Jam%20O%20Jogo%20do%20S%C3%A9culo%201996.mp4?cnt=0"
+},
+  {
+  "id": "maquina_mortifera_2",
+  "titulo": "Máquina Mortífera 2",
+  "capa": "https://image.tmdb.org/t/p/w342/xmLVl0IJuOuZn5RiyBgxEXQ5cai.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ryuNZtfeugm9olrytaydFPsDSoB.jpg",
+  "sinopse": "Martin Riggs e Roger Murtaugh são dois policiais que trabalham juntos para combater um traficante de drogas. A dupla é encarregada de proteger Leo Getz, uma atrapalhada testemunha que admite estar fazendo negócios com os sul-africanos. Eles descobrem que um membro do corpo diplomático da África do Sul está usando sua imunidade para poder cometer seus crimes.",
+  "rating": 7.045,
+  "year": "1989",
+  "generos": [
+    28,
+    53,
+    80
+  ],
+  "url": "https://ia601804.us.archive.org/25/items/PaixaoFlix-Maquina-Mortifera-2-1989/M%C3%A1quina%20Mort%C3%ADfera%202%201989.mp4?cnt=0"
+},
+  {
+  "id": "o_livro_de_eli",
+  "titulo": "O Livro de Eli",
+  "capa": "https://image.tmdb.org/t/p/w342/hUS4hknUZGJKqdFWf04eNSaaRfC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/aPrrrGtSjXbw8XnpzsVJgF0ioq3.jpg",
+  "sinopse": "Trinta anos depois da guerra ter dizimado o mundo, um guerreiro solitário chamado Eli caminha por horizontes arruinados dando esperança para os que restaram. Apenas um outro homem compreende o poder de um livro que Eli carrega e está determinado a se apoderar dele. Apesar de Eli preferir a paz, ele arriscará a sua vida para proteger a sua carga preciosa, pois precisa cumprir o seu destino de ajudar a restaurar a humanidade.",
+  "rating": 6.805,
+  "year": "2010",
+  "generos": [
+    28,
+    53,
+    878
+  ],
+  "url": "https://ia903203.us.archive.org/34/items/PaixaoFlix-O-Livro-de-Eli/O%20Livro%20de%20Eli.mp4?cnt=0"
+},
+  {
+  "id": "dia_de_treinamento",
+  "titulo": "Dia de Treinamento",
+  "capa": "https://image.tmdb.org/t/p/w342/ju2TUNXdCosCMOWXJA1BxtylyOj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/nuO8o9ltxhI7AZQxePavEZ4TyHa.jpg",
+  "sinopse": "Jake Hoyt, um jovem policial de Los Angeles, entra para a equipe de narcóticos da polícia e recebe como oficial de treinamento e parcerio Alonzo Harris, um policial veterano e corrupto. Com o passar do dia, o jovem é exposto a todo tipo de corrupção e é ainda acusado de assassinato, acontecimentos que são orquestrados por Alonzo a fim de encobrir um engano cometido por ele junto à máfia russa, que pode fazer com que ele seja morto se não conseguir uma grande quantia de dinheiro até a meia-noite.",
+  "rating": 7.527,
+  "year": "2001",
+  "generos": [
+    28,
+    80,
+    18
+  ],
+  "url": "https://ia800609.us.archive.org/13/items/PaixaoFlix-Dia-de-Treinamento-2001/Dia%20de%20Treinamento%202001.mp4?cnt=0"
+},
+  {
   "id": "homem_formiga_e_a_vespa",
   "titulo": "Homem-Formiga e a Vespa",
   "capa": "https://image.tmdb.org/t/p/w342/5BKRuGVxx8qsB7WGSJ0oWRCHsgN.jpg",
@@ -230,7 +354,6 @@
     "rating": 6.5,
     "year": "2003",
     "generos": [28, 80, 53],
-   "destaque": true,
     "url": "https://ia600703.us.archive.org/35/items/paixaoflix-series-velozes-e-furiosos-2/Velozes.e.Furiosos.2.ia.mp4?cnt=0"
   },
   {
@@ -264,6 +387,7 @@
     "rating": 7.2,
     "year": "2011",
     "generos": [28, 80, 53],
+    "destaque": true,
     "url": "https://ia600906.us.archive.org/35/items/paixaoflix-series-velozes-e-furiosos-5-operacao-rio/Velozes.e.Furiosos.5.Operacao.Rio.ia.mp4"
   },
   {
