@@ -1,5 +1,78 @@
 [
   {
+  "id": "sem_refugio",
+  "titulo": "Sem Refúgio",
+  "capa": "https://image.tmdb.org/t/p/w342/dU05fLDIMBggFIuhpV7IATP5x4j.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1aOPPkXASkd2By3EKIw66Ilx5qF.jpg",
+  "sinopse": "Um atirador profissional, esgotado de seu trabalho, acaba preso cai em uma armadilha letal. Para sobreviver, ele deve encontrar uma maneira de escapar de seu assassino.",
+  "rating": 6.342,
+  "year": "2024",
+  "generos": [
+    28,
+    53
+  ],
+  "url": "https://archive.org/download/PaixaoFlix-Sem-Refugio-2024/Sem%20Refugio%202024%202%200.mp4"
+},
+  {
+  "id": "o_mundo_vai_tremer",
+  "titulo": "O Mundo Vai Tremer",
+  "capa": "https://image.tmdb.org/t/p/w342/2VMQnBkGgg2UJM8b3fTJ5X3lyaE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/a3bAi97mvFrX6iCCBeXiqRzwGHa.jpg",
+  "sinopse": "Durante a Segunda Guerra, prisioneiros judeus, forçados a trabalhar no primeiro campo de extermínio nazista secreto na Polônia (Chelmo), planejam uma fuga ousada. O objetivo do grupo não é apenas sobreviver, mas tornarem-se as primeiras testemunhas oculares a denunciar e alertar o mundo sobre os horrores do Holocausto.",
+  "rating": 7.4,
+  "year": "2025",
+  "generos": [
+    18,
+    10752,
+    36
+  ],
+  "url": "https://archive.org/download/PaixaoFlix-O-Mundo-Vai-Tremer-2025/O%20Mundo%20Vai%20Tremer%202025.mp4"
+},
+  {
+  "id": "o_falsario",
+  "titulo": "O Falsário",
+  "capa": "https://image.tmdb.org/t/p/w342/kruMkxPyLf8bZIuu53JxgyZ29kj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uHavtqbnMDcwqVK9Y94ZQSWxtCw.jpg",
+  "sinopse": "Neste drama inspirado em uma história real, um artista começa a trabalhar como falsário para gangues criminosas no submundo de Roma, na década de 1970.",
+  "rating": 6.624,
+  "year": "2025",
+  "generos": [
+    53,
+    80,
+    18
+  ],
+  "url": "https://archive.org/download/o-falsario-paixaoflix/CONV_O%20Fals%C3%A1rio.ia.mp4"
+},
+  {
+  "id": "a_funcionaria_do_mes",
+  "titulo": "A Funcionária do Mês",
+  "capa": "https://image.tmdb.org/t/p/w342/macrOHc9SMUwfTIUYAXralfmLRM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rkkqXev1hWjwhLWFYRPKwYSaXXO.jpg",
+  "sinopse": "Inés é uma excelente funcionária de uma empresa de produtos de limpeza. Se sentindo pouco valorizada no trabalho, ela decide pedir um aumento para o seu chefe, mas a conversa não sai como o planejado.",
+  "rating": 4.7,
+  "year": "2022",
+  "generos": [
+    35,
+    53
+  ],
+  "url": "https://archive.org/download/PaixaoFlix-A-Funcionaria-do-Mes-2022/A%20Funcionaria%20do%20Mes%202022%202%200.mp4"
+},
+  {
+  "id": "todo_mundo_ama_o_pateta",
+  "titulo": "Todo Mundo Ama O Pateta",
+  "capa": "https://image.tmdb.org/t/p/w342/nYQoJz4CqmYSjEdy0dXHwdcU3QO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/h6RKj49MMWBHVcU8nNygkl1ti2D.jpg",
+  "sinopse": "Toda família vai adorar ver o Pateta sair de uma trapalhada e entrar em outra nesta coleção que reúne suas histórias mais divertidas. O dia está lindo e tudo vai muito bem até que o Pateta resolve demonstrar seus talentos atléticos em A Arte de Esquiar e em Como Pescar. Em Pateta e Wilbur, Pateta e um grilo saltitante descobrem o verdadeiro significado da amizade numa viagem de pescaria. Em Ladrão de Bagagem, você vai se divertir ao ver o Pateta tentando controlar coelhinhos, pássaros e animais exóticos dentro de um baú. E ainda, as histórias favoritas: O Leão Abatido e A Grande Lavada. Você irá amar cada minuto desta coleção extraordinária, com a sempre encantadora magia Disney. Afinal, TODO MUNDO AMA O PATETA.",
+  "rating": 7.161,
+  "year": "2003",
+  "generos": [
+    16,
+    10751,
+    35
+  ],
+  "url": "https://archive.org/download/todo-mundo-ama-o-pateta-paixaoflix/CONV_Todo%20Mundo%20Ama%20o%20Pateta.ia.mp4"
+},
+  {
   "id": "chamas_da_vinganca",
   "titulo": "Chamas da Vingança",
   "capa": "https://image.tmdb.org/t/p/w342/w9BZFaK8MEwKjLtyFUS5zoPIYo1.jpg",
