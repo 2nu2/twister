@@ -1,5 +1,21 @@
 [
   {
+  "id": "rio_2",
+  "titulo": "Rio 2",
+  "capa": "https://image.tmdb.org/t/p/w342/e0CKmNlKfWwc8LSgfyf4gYsTjjP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/eg2jxQ1FFi6ENDfyMIMC5odpcU0.jpg",
+  "sinopse": "As araras Blu e Jade vivem felizes com seus filhos no Rio de Janeiro. Quando seus donos, Túlio e Linda, encontram pássaros de sua espécie na Amazônia, eles decidem partir para novas aventuras na região Norte do país. Só que nem tudo é perfeito: Nigel, o velho inimigo de Blu e Jade, está de volta para se vingar.",
+  "rating": 6.515,
+  "year": "2014",
+  "generos": [
+    16,
+    12,
+    35,
+    10751
+  ],
+  "url": "https://dn720307.ca.archive.org/0/items/rio-2-2014-brrip-720p-dublado-andre-tpf/Rio%202%20%282014%29%20BRrip%20720p%20Dublado%20-%20AndreTPF.mp4"
+},
+  {
   "id": "shrek_para_sempre",
   "titulo": "Shrek Para Sempre",
   "capa": "https://image.tmdb.org/t/p/w342/iFXVU0ni6YWgQNSPkoGO1Tk5L3g.jpg",
