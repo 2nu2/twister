@@ -1,5 +1,220 @@
 [
   {
+  "id": "shrek_terceiro",
+  "titulo": "Shrek Terceiro",
+  "capa": "https://image.tmdb.org/t/p/w342/abw1mIJIjG9X3xSEffE9siLcOkN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg",
+  "sinopse": "O rei Harold, pai de Fiona, morre repentinamente. Com isto Shrek precisa ser coroado rei, algo que ele jamais pensou em ser. Juntamente com o Burro e o Gato de Botas, ele precisa encontrar alguém que possa substituí-lo no cargo de soberano do Reino de Tão, Tão Distante. O principal candidato é Artie, um jovem desprezado por todos em sua escola, que é primo de Fiona.",
+  "rating": 6.313,
+  "year": "2007",
+  "generos": [
+    14,
+    12,
+    16,
+    35,
+    10751
+  ],
+  "url": "https://dn800200.us.archive.org/0/items/a-era-do-gelo-1-2-3-4/Shrek%20Terceiro%20%282007%29.mp4"
+},
+  {
+  "id": "shrek_2",
+  "titulo": "Shrek 2",
+  "capa": "https://image.tmdb.org/t/p/w342/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8ohobj5lAIbl5XWw11FywS3IRrS.jpg",
+  "sinopse": "Após se casar com a Princesa Fiona, Shrek vive feliz em seu pântano. Ao retornar de sua lua-de-mel Fiona recebe uma carta de seus pais, que não sabem que ela agora é um ogro, convidando-a para um jantar juntamente com seu grande amor, na intenção de conhecê-lo. A muito custo Fiona consegue convencer Shrek a ir visitá-los, tendo ainda a companhia do Burro. Porém os problemas começam quando os pais de Fiona descobrem que ela não se casou com o Príncipe, a quem havia sido prometida, e enviam o Gato de Botas para separá-los.",
+  "rating": 7.327,
+  "year": "2004",
+  "generos": [
+    16,
+    35,
+    10751,
+    14,
+    10749
+  ],
+  "url": "https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/Shrek%202%20%282004%29%20-%20BDRip%20720p%20-%20Dublado.mp4"
+},
+  {
+  "id": "shrek",
+  "titulo": "Shrek",
+  "capa": "https://image.tmdb.org/t/p/w342/wxeqfC221YMptRRdzxlijAh7q8l.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+  "sinopse": "Em um pântano distante vive Shrek, um ogro solitário que vê, sem mais nem menos, sua vida ser invadida por uma série de personagens de contos de fada. Todos eles foram expulsos de suas casas pelo maligno Lorde Farquaad. Determinado a recuperar a tranquilidade, Shrek faz um acordo com Farquaad: todos os personagens poderão retornar aos seus lares se ele e seu amigo Burro resgatarem uma princesa que foi aprisionada por um dragão.",
+  "rating": 7.775,
+  "year": "2001",
+  "generos": [
+    16,
+    35,
+    14,
+    12,
+    10751
+  ],
+  "url": "https://dn800200.us.archive.org/0/items/a-era-do-gelo-1-2-3-4/Shrek%202001.mp4"
+},
+  {
+  "id": "ratatouille",
+  "titulo": "Ratatouille",
+  "capa": "https://image.tmdb.org/t/p/w342/41Co0TRUJNyvjr2vHBEcAKAEFpX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jQ6Vuxe1CEPMXTF7d0fZgdIBY8U.jpg",
+  "sinopse": "Remy, morador de Paris, aprecia boa comida e tem um paladar bastante sofisticado. Ele adoraria se tornar um chef para poder criar e desfrutar de obras-primas culinárias para o deleite de seu coração. O único problema é que Remy é um rato. Quando acaba no esgoto debaixo de um dos melhores restaurantes de Paris, o roedor gourmet encontra-se na posição ideal para realizar o seu sonho.",
+  "rating": 7.845,
+  "year": "2007",
+  "generos": [
+    16,
+    35,
+    10751,
+    14
+  ],
+  "url": "https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/Ratatouille%20720p%20Dublado%20-%20The%20Pirate%20Filmes.ia.mp4"
+},
+  {
+  "id": "os_croods_2_uma_nova_era",
+  "titulo": "Os Croods 2: Uma Nova Era",
+  "capa": "https://image.tmdb.org/t/p/w342/f7BIa9xIerwviSMsa9BEY28sC3Y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ytTQoYkdpsgtfDWrNFCei8Mfbxu.jpg",
+  "sinopse": "A família Crood se muda para um lugar seguro, onde encontram seus novos vizinhos, os Bettermans. À medida que as tensões aumentam, uma nova ameaça impulsiona os dois clãs em uma aventura épica que os força a se unirem e sobreviverem juntos.",
+  "rating": 7.438,
+  "year": "2020",
+  "generos": [
+    16,
+    10751,
+    12,
+    14,
+    35
+  ],
+  "url": "https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/Os.Croods.2.Uma.Nova.Era.2021.720p.BluRay.DUAL.COMANDO.TO.mp4"
+},
+  {
+  "id": "os_croods",
+  "titulo": "Os Croods",
+  "capa": "https://image.tmdb.org/t/p/w342/7k9w3RgKYoJ9MCwdBY0ZBxC323L.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wFN8llYh215M8i2fqWAcPV8CSyL.jpg",
+  "sinopse": "Um terremoto destrói a caverna de uma família pré-histórica, que vive novas experiências em terras desconhecidas em sua busca por um novo lar.",
+  "rating": 6.946,
+  "year": "2013",
+  "generos": [
+    16,
+    12,
+    10751,
+    35
+  ],
+  "url": "https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/Os%20Croods%202013%20Dublado%20BDRip%20720p%20-%20MHDS.mp4"
+},
+  {
+  "id": "madagascar",
+  "titulo": "Madagascar",
+  "capa": "https://image.tmdb.org/t/p/w342/9OFYnKQBdSfoSunwkImoTtYo9S9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/tPaurpIUskVji5vwV0dhy9pq4Vs.jpg",
+  "sinopse": "O leão Alex é a grande atração do zoológico do Central Park, em Nova York. Ele e seus melhores amigos, a zebra Marty, a girafa Melman e a hipopótamo Gloria, sempre passaram a vida em cativeiro e desconhecem o que é morar na selva. Curioso em saber o que há por trás dos muros do zoo, Marty decide fugir e explorar o mundo. Ao perceberem, Alex, Gloria e Melman decidem partir à sua procura. O trio encontra Marty na estação Grand Central do metrô, mas antes que consigam voltar para casa são atingidos por dardos tranquilizantes e capturados. Embarcados em um navio rumo à África, eles acabam na ilha de Madagascar, onde precisam encontrar meios de sobrevivência em uma selva verdadeira.",
+  "rating": 6.929,
+  "year": "2005",
+  "generos": [
+    12,
+    16,
+    35,
+    10751
+  ],
+  "url": "https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/Madagascar%20%282005%29%20-%20BDRip%20720p%20-%20Dublado%20-%20LuanHarper.mp4"
+},
+  {
+  "id": "kung_fu_panda_3",
+  "titulo": "Kung Fu Panda 3",
+  "capa": "https://image.tmdb.org/t/p/w342/ztaU1LyB4IpBSvdZ0p1RntQkfhQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/s3FiHTdpQVpqIqdBxLLiy40wGut.jpg",
+  "sinopse": "Em uma visita a uma vila secreta com o pai, Po forma um exército de pandas para combater um espírito maligno que ameaça a China.",
+  "rating": 6.934,
+  "year": "2016",
+  "generos": [
+    16,
+    28,
+    12,
+    35,
+    10751
+  ],
+  "url": "https://dn800200.us.archive.org/0/items/a-era-do-gelo-1-2-3-4/Kung%20Fu%20Panda%203%202016%20720p%20Dublado%20-%20WWWW.THEPIRATEFILMES.COM.mp4"
+},
+  {
+  "id": "os_sem_floresta",
+  "titulo": "Os Sem-Floresta",
+  "capa": "https://image.tmdb.org/t/p/w342/cNPhs8Gkm1SJ4vuZDnytZnj1EsY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/reK7SgAFlyxg3s9R7neh6M970kh.jpg",
+  "sinopse": "A primavera chegou, o que faz com que os animais da floresta despertem da hibernação. Ao acordar eles logo têm uma surpresa: surgiu ao redor de seu habitat natural uma grande cerca verde. Inicialmente eles temem o que há por detrás da cerca, até que RJ revela que foi construída uma cidade ao redor da floresta em que vivem, que agora ocupa apenas um pequeno espaço. RJ diz ainda que no mundo dos humanos há as mais diversas guloseimas, convencendo os demais a atravessar a cerca. Entretanto esta atitude desagrada o cauteloso Verne, que achava melhor permanecer onde estavam inicialmente.",
+  "rating": 6.601,
+  "year": "2006",
+  "generos": [
+    12,
+    16,
+    35,
+    10751
+  ],
+  "url": "https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/%5BACESSE...HD-ELITE.ME%5DOs%20Sem-Floresta%20%282006%29%20BluRay%201080p%20Dual%20%C3%81udio/%5BMENOR%5DOs%20Sem-Floresta%20%282006%29%20BluRay%201080p%20Dual%20%C3%81udio.mp4"
+},
+  {
+  "id": "por_agua_abaixo",
+  "titulo": "Por Água Abaixo",
+  "capa": "https://image.tmdb.org/t/p/w342/w6ODQ3TOsBtI1gDRYfQ4nucA1Qj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7xQk3HdCvkNmk3gblDGn9fVnbsT.jpg",
+  "sinopse": "Roddy St. James, o mimado ratinho de estimação, acha que já chegou lá... até que entra literalmente pelo cano e vai parar num submundo de rãs ninjas, ratos-capangas e lesmas cantoras.",
+  "rating": 6.336,
+  "year": "2006",
+  "generos": [
+    12,
+    16,
+    35,
+    10751
+  ],
+  "url": "https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/Por%20%C3%81gua%20Abaixo%20%282006%29%20720p%20Dual%20JohnL/Por%20%C3%81gua%20Abaixo%20%282006%29%20720p%20Dual%20JohnL.mp4"
+},
+  {
+  "id": "alvin_e_os_esquilos_3",
+  "titulo": "Alvin e os Esquilos 3",
+  "capa": "https://image.tmdb.org/t/p/w342/1yk43x6M0PAq7tVsksOIcWi9k3Y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/j8M9FjI1seC6OmUluDGkOZIwZt.jpg",
+  "sinopse": "Os irmãos Alvin, Simon e Theodore partem em uma viagem de cruzeiro juntamente com Dave e as esquiletes, formadas por Eleanor, Jeanette e Brittany. Durante a viagem Alvin quer se divertir, enquanto que Dave tenta ter algum controle sobre os esquilos. Numa de suas brincadeiras Alvin acaba em uma asa delta, que o leva, juntamente com os irmãos e as esquiletes, para uma ilha. Dave parte atrás deles usando outra asa delta e acaba carregando consigo Ian, o ex-empresário dos esquilos que agora trabalha vestindo a roupa de um pelicano, para entreter os passageiros do cruzeiro.",
+  "rating": 5.71,
+  "year": "2011",
+  "generos": [
+    35,
+    14,
+    10751,
+    10402,
+    16
+  ],
+  "url": "https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/Alvin%20e%20Os%20Esquilos%203%20DVDRip%20XviD%20Dual%20Audio/Alvin%20e%20Os%20Esquilos%203%20DVDRip%20XviD%20Dual%20Audio.mp4"
+},
+  {
+  "id": "alvin_e_os_esquilos_2",
+  "titulo": "Alvin e os Esquilos 2",
+  "capa": "https://image.tmdb.org/t/p/w342/9L9Cgl6VUlHrnjcJCBj0S338Kuo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/3lf6YCItKcF3Wrrs7tp1PL0eyOT.jpg",
+  "sinopse": "Os esquilos Alvin, Simon e Theodore voltam para a escola. A diretora pede que eles vençam um concurso de bandas para salvar o programa musical da instituição, mas eles precisam enfrentar a forte concorrência das Esquiletes.",
+  "rating": 5.654,
+  "year": "2009",
+  "generos": [
+    35,
+    10751,
+    16,
+    14,
+    10402
+  ],
+  "url": "https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/Alvin%20e%20Os%20Esquilos%202%20DVDRip%20XviD%20Dublado/Alvin%20e%20os%20Esquilos%202%20DVDRip%20XviD%20Dublado.mp4"
+},
+  {
+  "id": "alvin_e_os_esquilos",
+  "titulo": "Alvin e os Esquilos",
+  "capa": "https://image.tmdb.org/t/p/w342/o2WoeYJv9ISS9bw0kKD2cvmg9xN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lKkkogTlIQT8o83GFQZZ3CA9MzB.jpg",
+  "sinopse": "Alvin, Simon e Theodore são três esquilos especiais, que decidem morar na casa de Dave Seville, um compositor em busca do sucesso. Logo eles percebem que, para que Dave permita que eles morem em sua casa, o trio precisará demonstrar que tem talento. Assim Alvin, Simon e Theodore mostram que sabem cantar, tornando-se um grande sucesso. Isto faz com que Dave torne-se não apenas seu compositor, mas também um verdadeiro pai. Só que o estrelato sobe à cabeça do trio, gerando problemas no relacionamento deles com Dave.",
+  "rating": 5.842,
+  "year": "2007",
+  "generos": [
+    35,
+    10751,
+    14,
+    16
+  ],
+  "url": "https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/Alvin%20e%20Os%20Esquilos%20%20DVDRip%20XviD%20Dublado/Alvin%20e%20os%20Esquilos%20DVDRip%20XviD%20Dublado.mp4"
+},
+  {
   "id": "a_era_do_gelo",
   "titulo": "A Era do Gelo",
   "capa": "https://image.tmdb.org/t/p/w342/dlqC2gJs02gc23XvyOjoz52ToRI.jpg",
@@ -93,6 +308,20 @@
   "url": "https://archive.org/download/o-falsario-paixaoflix/CONV_O%20Fals%C3%A1rio.ia.mp4"
 },
   {
+  "id": "terror_em_silent_hill",
+  "titulo": "Terror em Silent Hill",
+  "capa": "https://image.tmdb.org/t/p/w342/7CLiGJbAlJNlbMbgeVbLhaEx8XD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/48TM0HjZSRjIr4QMuDTsMWcz7gX.jpg",
+  "sinopse": "Rose, uma mãe desesperada leva sua filha adotiva, Sharon, para a cidade de Silent Hill na tentativa de curá-la de seu sofrimento. Após um violento acidente de carro, Sharon desaparece e Rose começa sua busca desesperada para recuperá-la. Ela entra em uma neblina de cinzas e vai de encontro ao terrível segredo da cidade. Perseguida por grotescas criaturas deformadas e outras pessoas da cidade presas em um permanente purgatório, Rose começa a desvendar a verdade por trás do apocalíptico desastre que queimou a cidade há 30 anos.",
+  "rating": 6.643,
+  "year": "2006",
+  "generos": [
+    27,
+    9648
+  ],
+  "url": "https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/Terror%20em%20Silent%20Hill.mp4"
+},
+  {
   "id": "a_funcionaria_do_mes",
   "titulo": "A Funcionária do Mês",
   "capa": "https://image.tmdb.org/t/p/w342/macrOHc9SMUwfTIUYAXralfmLRM.jpg",
@@ -135,6 +364,20 @@
     53
   ],
   "url": "https://ia801005.us.archive.org/23/items/PaixaoFlix-Chamas-da-Vinganca-2004/Chamas%20da%20Vingan%C3%A7a%202004%20Bluray%202%200.mp4?cnt=0"
+},
+  {
+  "id": "cacadores_de_dragoes",
+  "titulo": "Caçadores de Dragões",
+  "capa": "https://image.tmdb.org/t/p/w342/m32peFDjg0GLBYq6n88hX9EKa6Q.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/eK1GCPvhUnWW65yWdGf4QyoBC18.jpg",
+  "sinopse": "Há perigo no Reino: um dragão está prestes a destruir o mundo! Uma garota decide ajudar seu tio, Lord Arnold, dono de um imenso castelo e de uma fabulosa fortuna, sai à procura de heróis iguais aos que ela conhece dos contos de fadas. Mas ao invés disso encontra Gwizdo e Lian-Chu, dois atrapalhados caçadores de dragão. Determinada a seguir com eles em sua aventura para salvar a terra. Zoe parte em uma viagem perigosa, para um mundo desconhecido de dragões adormecidos, que podem acordar a qualquer momento.",
+  "rating": 6.541,
+  "year": "2008",
+  "generos": [
+    16,
+    10751
+  ],
+  "url": "https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/Ca%C3%A7adores%20de%20Drag%C3%B5es%20-%20Dublado.mp4"
 },
   {
   "id": "corra",
