@@ -1,5 +1,54 @@
 [
   {
+  "id": "a_era_do_gelo",
+  "titulo": "A Era do Gelo",
+  "capa": "https://image.tmdb.org/t/p/w342/dlqC2gJs02gc23XvyOjoz52ToRI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8pwIhymsxfAVjrAE7syDjQULn37.jpg",
+  "sinopse": "Vinte mil anos atrás, num mundo coberto de gelo, o mamute Manfred e a preguiça Sid resgatam um bebê humano órfão. Agora, os dois vão enfrentar muitas aventuras até devolver o filhote de gente à sua tribo, que migrou para um novo acampamento.",
+  "rating": 7.381,
+  "year": "2002",
+  "generos": [
+    16,
+    35,
+    10751,
+    12
+  ],
+  "url": "https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/A%20Era%20do%20Gelo%202002%20WWW.BLUDV.COM/A%20Era%20do%20Gelo%202002.mp4"
+},
+  {
+  "id": "a_era_do_gelo_2",
+  "titulo": "A Era do Gelo 2",
+  "capa": "https://image.tmdb.org/t/p/w342/r4SOh2EJQe2QEfcDsrOMeKyZD05.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/o1jr0UqVjxIZ1JnFzuVLN4ulWey.jpg",
+  "sinopse": "O aquecimento global traz ameaças de inundações generalizadas a regiões que antes eram geladas. Manny, Sid e Diego partem em busca de um refúgio seguro. Eles encontram outro mamute, mas que acredita ser um gambá.",
+  "rating": 6.724,
+  "year": "2006",
+  "generos": [
+    16,
+    10751,
+    35,
+    12
+  ],
+  "url": "https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/A%20Era%20do%20Gelo%202%202006%20WWW.BLUDV.COM/A.Era.do.Gelo.2.2006.mp4"
+},
+  {
+  "id": "a_era_do_gelo_o_big_bang",
+  "titulo": "A Era do Gelo: O Big Bang",
+  "capa": "https://image.tmdb.org/t/p/w342/e7R8ULZLdiKO2uYtXqifwf2pJfy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wQoe0j7ZDk7LWexC0XhwkK4brIb.jpg",
+  "sinopse": "Depois que o esquilo Scrat, involuntariamente, provoca um acidente espacial em sua incansável perseguição pela noz, um enorme meteoro entra em rota de colisão com a Terra, ameaçando o lar de Manny, Diego, Sid e cia. Sem saber o que fazer para reverter a situação, eles terão que confiar em Buck, a elétrica doninha caolha do terceiro filme – único do grupo que realmente tem um plano para evitar o trágico fim de todos. Paralelamente, Manny e Ellie têm que lidar com iminente saída de Amora de casa, ao passo que Diego e Shira pensam em aumentar a família e Sid finalmente parece encontrar o amor.",
+  "rating": 6.122,
+  "year": "2016",
+  "generos": [
+    12,
+    16,
+    10751,
+    35,
+    878
+  ],
+  "url": "https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/A%20Era%20do%20Gelo%20-%20O%20Big%20Bang%20720p%20%282016%29%20Dual%20%C3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo/A%20Era%20do%20Gelo%20-%20O%20Big%20Bang%20720p%20%282016%29%20Dual%20%C3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo.mp4"
+},
+  {
   "id": "sem_refugio",
   "titulo": "Sem Refúgio",
   "capa": "https://image.tmdb.org/t/p/w342/dU05fLDIMBggFIuhpV7IATP5x4j.jpg",
